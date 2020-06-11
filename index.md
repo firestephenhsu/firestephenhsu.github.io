@@ -10,7 +10,9 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 # Signatures
 
-_Last Update: June 11, 3:04 PM EST_
+_Last Update: June 11, 3:31 PM EST_
+
+**Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
 ## MSU
 
@@ -18,7 +20,7 @@ _Last Update: June 11, 3:04 PM EST_
 
 Dr. Susan Wyche | Associate Professor | Dept of Media and Information
 Chris Frilingos | Faculty member |
-Dr. Gideon Bradburd | Assistant Professor | Dept of Integrative Biology
+**Dr. Gideon Bradburd | Assistant Professor | Dept of Integrative Biology**
 Laura Schmitt Olabisi | Associate Professor
 David Lowry | Associate Professor | Dept of Plant Biology
 Laura Chomiuk | Associate Professor | Dept of Physics and Astronomy
@@ -26,12 +28,22 @@ Anna Pegler-Gordon | Professor | James Madison College
 E. Starr | | Writing, Rhetoric, & American Cultures
 Heather L Eisthen | Professor | Integrative Biology
 Elizabeth Tinsley Johnson | Assistant Professor | Integrative Biology
+John Monberg, PhD | |
+Rufas Isaacs | Professor |
+Mark Axelrod | Associate Professor | James Madison College and Fisheries & Wildlife
+Anthony Kendall | Research Assistant Professor | Earth & Environmental Sciences
 
 
 ### Staff & Postdoctoral Researchers
 
-Dr. Jackson Helms | Postdoctoral Researcher | KBS
+Dr. Jackson Helms | Postdoctoral Researcher | Kellogg Biological Station
+**Dr. Brendan Reid** | **Postdoctoral Researcher** | **Kellogg Biological Station**
 Erica Fischer, MS | Staff |
+Zac Johnston | Postdoctoral Researcher | Physics & Astronomy
+Paul Bergeron | Postdoctoral Researcher |
+**Acer VanWallendael | Postdoctoral Researcher |**
+Abigail Stevens, PhD | Postdoctoral Researcher | Physics & Astronomy
+**Matteo Tomasini | Postdoctoral Researcher | Integrative Biology**
 
 ### Graduate Students
 
@@ -67,7 +79,10 @@ KBS | PhD Candidate |
 Jeffrey Davis | PhD Student | Philosophy
 Jack O'Brien | |
 Isabela Molina | PhD Student | Physics & Astronomy
-
+Jeremy Neefus | PhD Candidate | Philosophy
+Kevin McCormick | PhD Candidate | Integrative Biology
+**Kyle Jaynes | PhD Student | Integrative Biology** 
+Anonymous graduate student | |
 
 ### Undergraduate Students
 
@@ -93,7 +108,9 @@ Claudia Allou | James Madison College |
 Alex Brown | BA |
 Max Hughes | PhD |
 Huei Sears | Lyman Briggs College, BSc '17 | current PhD Student, Ohio University Dept of Physics & Astronomy
-
+Patric Vaelli | PhD | currently at Harvard University
+Georgia Artzberger | |
+Allie Pail | James Madison College, Social Science |
 
 ### Other Community Allies
 
@@ -121,3 +138,4 @@ Jeremy Canfield | PhD Student | Physics, Georgetown University
 Heidi Abresch | PhD Student |
 Deb Gordon-Gurfinkel | | Lecturer & Program Director
 Jacqueline Cambata | |
+Megan Phifer-Rixey | PhD |

@@ -45,9 +45,10 @@ Rachel Osborn | PhD Candidate
 Erica Holt | PhD Candidate | History
 Isabela Borges | PhD Student | Department of Integrative Biology, W. K. Kellogg Biological Station
 Julie Jarvey | PhD Candidate | Integrative Biology
+
+### Undergraduate Students
+
 Maggie Haite | Undergraduate | Lyman Briggs, Honors College
-
-
 
 ### Organizations
 

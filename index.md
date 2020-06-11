@@ -6,11 +6,11 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to it’s commitment to be a diverse and inclusive institution and to change it’s institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **125** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
+We currently have **157** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
 
 # Signatures
 
-_Last Update: June 11, 4:58 PM EST_
+_Last Update: June 11, 6:51 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -37,6 +37,13 @@ Meredith L. Gore, PhD | | Fisheries & Wildlife
 Jim Smith | | Lyman Briggs College/Entomology
 Kathleen Fitzpatrick, PhD | Professor | Director of Digital Humanities/Professor in English
 Carolyn M. Malmstrom | Associate Professor | Plant Biology
+Amy Ralston, Ph.D. | Associate Professor | Biochemistry & Molecular Biology
+Jyotsna G. Singh | Professor | English
+Andaluna Borcila | Associate Professor | James Madison College
+Tom Fernandez | Professor | Horticulture
+Amara E. Ezeamama | Assistant Professor | Psychiatry
+Zarena Aslami | Associate Professor | English
+Aaron M. McCright | Professor and Chairperson | Sociology
 
 
 ### Staff & Postdoctoral Researchers
@@ -49,6 +56,10 @@ Paul Bergeron | Postdoctoral Researcher |
 **Acer VanWallendael** | Postdoctoral Researcher |
 Abigail Stevens, PhD | Postdoctoral Researcher | Physics & Astronomy
 **Matteo Tomasini** | Postdoctoral Researcher | Integrative Biology
+Caroline Edwards | Staff | Plant Biology
+Nate Emery, PhD | Postdoctoral Researcher | Plant Biology
+Helen Rueckert | Research Technician | Integrative Biology
+David Salcedo Tacuma | Research Assistant | Physiology
 
 ### Graduate Students
 
@@ -95,6 +106,18 @@ Katherine Skocelas | PhD Student | Computer Science & Engineering
 Paul Hamerski | PhD Candidate |
 Serena G. Lotreck | PhD Student | Plant Biology
 Anonymous graduate student | |
+Jeremy Rapp | MS Student | Earth and Environmental Sciences
+Jose Guadalupe Hernandez | PhD Student | Computer Science & Engineering
+Chase O'Neil | MS Stduent | Plant, Soil and Microbial Sciences 
+Allison Zahorec | PhD Student | Entomology
+Matthew Farr | PhD Student | Integrative Biology
+Eleanore Ritter | PhD Student | Plant Biology
+Bruce Stagg Martin | PhD Student | Plant Biology
+Juan Carlos Rico Noguera | PhD Student
+MB | PhD Student
+Jeff Burnett | PhD Student | Anthropology
+Aimer A. Gutierrez-Diaz | PhD Student
+
 
 ### Undergraduate Students
 
@@ -127,6 +150,8 @@ Allie Pail | James Madison College, Social Science |
 Alex Galarza | History PhD '17 | currently at University of Delaware
 Nikolai Yezhov | PhD |
 **Justin Waraniak** | | currently PhD Student, North Dakota State University
+**Dr. Kelsey Yule** | PhD | School of Life Sciences, Arizona State University, former MSU PostDoc in Integrative Biology
+
 
 ### Other Community Allies
 
@@ -161,3 +186,15 @@ Aleksey | Undergraduate | Computer Science
 Darcy Winslow | MS | Academy for Systems Change
 **Peter Ralph** | PhD | University of Oregon
 Kathryn Hebert | PhD |
+**Young Wha Lee** | Biometrics Lead, Excellence in Breeding Platform | CGIAR
+**Michael D. Edge** | Postdoctoral Researcher | UC Davis
+Natalie M Wiseman | MD/PhD Candidate | Wayne State University, Department of Psychiatry and Behavioral Neurosciences
+Gaelen McCartney
+Naomi Goldberg | M.ed Student
+**Thom Nelson, PhD**
+**Nicholas Mancuso** | Assistant Professor| Prev Medicine, KSOM USC
+Alex Clagg 
+Andrew Drake
+Stephanie David
+Jonathan Kaplan | Professor | Oregon State University, Department of Philosophy
+Morgan Cassidy  | Sustainability Specialist

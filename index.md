@@ -113,10 +113,10 @@ Allison Zahorec | PhD Student | Entomology
 Matthew Farr | PhD Student | Integrative Biology
 Eleanore Ritter | PhD Student | Plant Biology
 Bruce Stagg Martin | PhD Student | Plant Biology
-Juan Carlos Rico Noguera | PhD Student
-MB | PhD Student
-Jeff Burnett | PhD Student | Anthropology
-Aimer A. Gutierrez-Diaz | PhD Student
+Juan Carlos Rico Noguera | PhD Student |
+MB | PhD Student |
+Jeff Burnett | PhD Student | Anthropology |
+Aimer A. Gutierrez-Diaz | PhD Student |
 
 
 ### Undergraduate Students
@@ -189,12 +189,12 @@ Kathryn Hebert | PhD |
 **Young Wha Lee** | Biometrics Lead, Excellence in Breeding Platform | CGIAR
 **Michael D. Edge** | Postdoctoral Researcher | UC Davis
 Natalie M Wiseman | MD/PhD Candidate | Wayne State University, Department of Psychiatry and Behavioral Neurosciences
-Gaelen McCartney
-Naomi Goldberg | M.ed Student
+Gaelen McCartney | |
+Naomi Goldberg | M.ed Student |
 **Thom Nelson, PhD**
-**Nicholas Mancuso** | Assistant Professor| Prev Medicine, KSOM USC
-Alex Clagg 
-Andrew Drake
-Stephanie David
+**Nicholas Mancuso** | Assistant Professor| Prev Medicine, KSOM USC 
+Alex Clagg | |
+Andrew Drake | |
+Stephanie David | |
 Jonathan Kaplan | Professor | Oregon State University, Department of Philosophy
-Morgan Cassidy  | Sustainability Specialist
+Morgan Cassidy  | Sustainability Specialist |

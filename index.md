@@ -12,6 +12,8 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 _Last Update: June 11, 3:31 PM EST_
 
+Count: 101
+
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
 ## MSU

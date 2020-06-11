@@ -10,6 +10,8 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 # Signatures
 
+_Last Update: June 11, 11:55 AM EST_
+
 ## MSU
 
 ### Graduate Students

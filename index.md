@@ -6,11 +6,11 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to it’s commitment to be a diverse and inclusive institution and to change it’s institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **107** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
+We currently have **125** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
 
 # Signatures
 
-_Last Update: June 11, 4:06 PM EST_
+_Last Update: June 11, 4:58 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 

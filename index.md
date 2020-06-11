@@ -12,8 +12,6 @@ We currently have **101** signatures. You can add yours [here](https://docs.goog
 
 _Last Update: June 11, 3:31 PM EST_
 
-Count: 101
-
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
 ## MSU

@@ -10,18 +10,18 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 # Signatures
 
-_Last Update: June 11, 12:18 PM EST_
+_Last Update: June 11, 12:44 PM EST_
 
 ## MSU
 
 ### Faculty & Academic Staff
 
 Dr. Susan Wyche | Associate Professor | Dept of Media and Information
-
+Chris Frilingos | Faculty member |
 
 ### Graduate Students
 
-Acacia Ackles | PhD Student 
+Acacia Ackles | PhD Student | Integrative Biology
 Kevin Bird | PhD Candidate
 McKayla Sluga | PhD Candidate
 Matthew Andres Moreno | PhD Student
@@ -31,6 +31,11 @@ Daniel Turner | PhD Student
 Jeremy Pardo | PhD Candidate
 Meaghan Clark | PhD Student
 itatiVCS | PhD Student
+KBS | PhD Candidate
+Cristóbal Martinez | PhD Student | English & Film Studies
+Jaron Adkins | PhD Candidate
+Austin Ferguson | PhD Student
+Kenyon Cavender | MS Student | Statistics and Probability
 
 ### Organizations
 
@@ -38,9 +43,21 @@ Graduate Employees Union
 
 ## Outside MSU
 
+### Alumni
+
+Anya Vostinar | PhD 
+Tess Huelskamp | Computer Science '17
+
+### Other Community Allies
+
 Olivia Borghi | PhD Student | University of Washington Department of Mathematics
 Dema K. | PhD Student |
 Chris Peritore-Galve | PhD |
 Kirke Elsass | PhD Student | Montana State University (Former Michigan resident)
 Shan Kothari | PhD student | Plant and Microbial Biology, University of Minnesota
 Brandon Locke | | Former MSU instructor & curriculum developer
+Andrea Slavney | PhD |
+Michael Roosa | PhD Candidate | Department of Physics & Astronomy, Texas A&M University
+Derek M Anderson | PhD Candidate | Texas A&M University
+Benjamin Harris | PhD Candidate | Cold Spring Harbor Laboratory
+Gabriel Mathy | Assisstant Professor | American University

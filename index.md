@@ -10,7 +10,7 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 # Signatures
 
-_Last Update: June 11, 12:44 PM EST_
+_Last Update: June 11, 1:08 PM EST_
 
 ## MSU
 
@@ -18,12 +18,16 @@ _Last Update: June 11, 12:44 PM EST_
 
 Dr. Susan Wyche | Associate Professor | Dept of Media and Information
 Chris Frilingos | Faculty member |
+Dr. Gideon Bradburd | Assistant Professor | Dept of Integrative Biology
+Laura Schmitt Olabisi | Associate Professor
+David Lowry | Associate Professore | Dept of Plant Biology
+Laura Chomiuk | Associate Professor | Dept of Physics and Astronomy
 
 ### Graduate Students
 
 Acacia Ackles | PhD Student | Integrative Biology
-Kevin Bird | PhD Candidate
-McKayla Sluga | PhD Candidate
+Kevin Bird | PhD Candidate | Horticulture
+McKayla Sluga | PhD Candidate | History
 Matthew Andres Moreno | PhD Student
 Kyle Sittig | PhD Candidate
 Alexander Lalejini | PhD Candidate
@@ -36,6 +40,14 @@ Cristóbal Martinez | PhD Student | English & Film Studies
 Jaron Adkins | PhD Candidate
 Austin Ferguson | PhD Student
 Kenyon Cavender | MS Student | Statistics and Probability
+Anna Haber | PhD Student
+Rachel Osborn | PhD Candidate
+Erica Holt | PhD Candidate | History
+Isabela Borges | PhD Student | Department of Integrative Biology, W. K. Kellogg Biological Station
+Julie Jarvey | PhD Candidate | Integrative Biology
+Maggie Haite | Undergraduate | Lyman Briggs, Honors College
+
+
 
 ### Organizations
 
@@ -47,6 +59,7 @@ Graduate Employees Union
 
 Anya Vostinar | PhD 
 Tess Huelskamp | Computer Science '17
+Mackenzie Caple | PhD | Kellog Biological Station
 
 ### Other Community Allies
 
@@ -61,3 +74,4 @@ Michael Roosa | PhD Candidate | Department of Physics & Astronomy, Texas A&M Uni
 Derek M Anderson | PhD Candidate | Texas A&M University
 Benjamin Harris | PhD Candidate | Cold Spring Harbor Laboratory
 Gabriel Mathy | Assisstant Professor | American University
+Nishant Singh | PhD Candidate | Ecology and Evolutionary Biology | University of Toronto

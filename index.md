@@ -6,11 +6,11 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to it’s commitment to be a diverse and inclusive institution and to change it’s institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **101** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
+We currently have **107** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
 
 # Signatures
 
-_Last Update: June 11, 3:31 PM EST_
+_Last Update: June 11, 4:06 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -32,6 +32,7 @@ John Monberg, PhD | |
 Rufas Isaacs | Professor |
 Mark Axelrod | Associate Professor | James Madison College and Fisheries & Wildlife
 Anthony Kendall | Research Assistant Professor | Earth & Environmental Sciences
+Frank A. Fear | Professor Emeritus | College of Agriculture and Natural Resources
 
 
 ### Staff & Postdoctoral Researchers
@@ -82,6 +83,9 @@ Isabela Molina | PhD Student | Physics & Astronomy
 Jeremy Neefus | PhD Candidate | Philosophy
 Kevin McCormick | PhD Candidate | Integrative Biology
 **Kyle Jaynes** | PhD Student | Integrative Biology
+Josh Shields | PhD Student |
+**Ellen Weise** | |
+Seth Smith | PhD Student | Integrative Biology
 Anonymous graduate student | |
 
 ### Undergraduate Students
@@ -111,6 +115,7 @@ Huei Sears | Lyman Briggs College, BSc '17 | current PhD Student, Ohio Universit
 Patric Vaelli | PhD | currently at Harvard University
 Georgia Artzberger | |
 Allie Pail | James Madison College, Social Science |
+Alex Galarza | History PhD '17 | currently at University of Delaware 
 
 ### Other Community Allies
 
@@ -139,3 +144,4 @@ Heidi Abresch | PhD Student |
 Deb Gordon-Gurfinkel | | Lecturer & Program Director
 Jacqueline Cambata | |
 Megan Phifer-Rixey | PhD |
+**Erica Larson** | Assistant Professor | University of Delaware

@@ -30,9 +30,13 @@ Heather L Eisthen | Professor | Integrative Biology
 Elizabeth Tinsley Johnson | Assistant Professor | Integrative Biology
 John Monberg, PhD | |
 Rufas Isaacs | Professor |
-Mark Axelrod | Associate Professor | James Madison College and Fisheries & Wildlife
+Mark Axelrod | Associate Professor | James Madison College/Fisheries & Wildlife
 Anthony Kendall | Research Assistant Professor | Earth & Environmental Sciences
 Frank A. Fear | Professor Emeritus | College of Agriculture and Natural Resources
+Meredith L. Gore, PhD | | Fisheries & Wildlife
+Jim Smith | | Lyman Briggs College/Entomology
+Kathleen Fitzpatrick, PhD | Professor | Director of Digital Humanities/Professor in English
+Carolyn M. Malmstrom | Associate Professor | Plant Biology
 
 
 ### Staff & Postdoctoral Researchers
@@ -61,7 +65,7 @@ itatiVCS | PhD Student
 KBS | PhD Candidate
 Cristóbal Martinez | PhD Student | English & Film Studies
 Jaron Adkins | PhD Candidate
-Austin Ferguson | PhD Student
+Austin Ferguson | PhD Student | Computer Science & Engineering
 Kenyon Cavender | MS Student | Statistics & Probability
 Anna Haber | PhD Student
 Rachel Osborn | PhD Candidate
@@ -86,12 +90,17 @@ Kevin McCormick | PhD Candidate | Integrative Biology
 Josh Shields | PhD Student |
 **Ellen Weise** | |
 Seth Smith | PhD Student | Integrative Biology
+Elizeth Cinto Meija | PhD Candidate |
+Katherine Skocelas | PhD Student | Computer Science & Engineering
+Paul Hamerski | PhD Candidate |
+Serena G. Lotreck | PhD Student | Plant Biology
 Anonymous graduate student | |
 
 ### Undergraduate Students
 
 Maggie Haite | Lyman Briggs, Honors College
 Alexander Urlaub | Entomology
+Nick Confer | Chemistry
 
 ### Organizations
 
@@ -115,7 +124,9 @@ Huei Sears | Lyman Briggs College, BSc '17 | current PhD Student, Ohio Universit
 Patric Vaelli | PhD | currently at Harvard University
 Georgia Artzberger | |
 Allie Pail | James Madison College, Social Science |
-Alex Galarza | History PhD '17 | currently at University of Delaware 
+Alex Galarza | History PhD '17 | currently at University of Delaware
+Nikolai Yezhov | PhD |
+**Justin Waraniak** | | currently PhD Student, North Dakota State University
 
 ### Other Community Allies
 
@@ -145,3 +156,8 @@ Deb Gordon-Gurfinkel | | Lecturer & Program Director
 Jacqueline Cambata | |
 Megan Phifer-Rixey | PhD |
 **Erica Larson** | Assistant Professor | University of Delaware
+Annie Smith | PhD |
+Aleksey | Undergraduate | Computer Science
+Darcy Winslow | MS | Academy for Systems Change
+**Peter Ralph** | PhD | University of Oregon
+Kathryn Hebert | PhD |

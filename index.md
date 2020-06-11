@@ -10,7 +10,7 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 # Signatures
 
-_Last Update: June 11, 1:08 PM EST_
+_Last Update: June 11, 1:33 PM EST_
 
 ## MSU
 
@@ -39,16 +39,21 @@ KBS | PhD Candidate
 Cristóbal Martinez | PhD Student | English & Film Studies
 Jaron Adkins | PhD Candidate
 Austin Ferguson | PhD Student
-Kenyon Cavender | MS Student | Statistics and Probability
+Kenyon Cavender | MS Student | Statistics & Probability
 Anna Haber | PhD Student
 Rachel Osborn | PhD Candidate
 Erica Holt | PhD Candidate | History
-Isabela Borges | PhD Student | Department of Integrative Biology, W. K. Kellogg Biological Station
+Isabela Borges | PhD Student | Integrative Biology, W. K. Kellogg Biological Station
 Julie Jarvey | PhD Candidate | Integrative Biology
+Teresa Panurach | PhD Student | Physics & Astronomy
+CJ Llorente | PhD Student | Physics & Astronomy
+Rebecca Shay | PhD Candidate |
+Brandon Barker | PhD Student |
 
 ### Undergraduate Students
 
-Maggie Haite | Undergraduate | Lyman Briggs, Honors College
+Maggie Haite | Lyman Briggs, Honors College
+Alexander Urlaub | Entomology
 
 ### Organizations
 
@@ -60,7 +65,7 @@ Graduate Employees Union
 
 Anya Vostinar | PhD 
 Tess Huelskamp | Computer Science '17
-Mackenzie Caple | PhD | Kellogg Biological Station
+Mackenzie Caple | PhD, Kellogg Biological Station
 
 ### Other Community Allies
 
@@ -78,3 +83,5 @@ Gabriel Mathy | Assisstant Professor | American University
 Nishant Singh | PhD Candidate | Ecology and Evolutionary Biology, University of Toronto
 Zachary Park | PhD Candidate | Georgetown University
 Levi Gray | Postdoc | Biology Department, University of Kentucky
+Hannah Davis | |
+Martha Reiskind | Research Assistant Professor | North Carolina State University

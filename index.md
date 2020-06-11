@@ -20,7 +20,7 @@ Dr. Susan Wyche | Associate Professor | Dept of Media and Information
 Chris Frilingos | Faculty member |
 Dr. Gideon Bradburd | Assistant Professor | Dept of Integrative Biology
 Laura Schmitt Olabisi | Associate Professor
-David Lowry | Associate Professore | Dept of Plant Biology
+David Lowry | Associate Professor | Dept of Plant Biology
 Laura Chomiuk | Associate Professor | Dept of Physics and Astronomy
 
 ### Graduate Students
@@ -60,7 +60,7 @@ Graduate Employees Union
 
 Anya Vostinar | PhD 
 Tess Huelskamp | Computer Science '17
-Mackenzie Caple | PhD | Kellog Biological Station
+Mackenzie Caple | PhD | Kellogg Biological Station
 
 ### Other Community Allies
 
@@ -75,4 +75,6 @@ Michael Roosa | PhD Candidate | Department of Physics & Astronomy, Texas A&M Uni
 Derek M Anderson | PhD Candidate | Texas A&M University
 Benjamin Harris | PhD Candidate | Cold Spring Harbor Laboratory
 Gabriel Mathy | Assisstant Professor | American University
-Nishant Singh | PhD Candidate | Ecology and Evolutionary Biology | University of Toronto
+Nishant Singh | PhD Candidate | Ecology and Evolutionary Biology, University of Toronto
+Zachary Park | PhD Candidate | Georgetown University
+Levi Gray | Postdoc | Biology Department, University of Kentucky

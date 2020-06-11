@@ -20,7 +20,7 @@ _Last Update: June 11, 3:31 PM EST_
 
 Dr. Susan Wyche | Associate Professor | Dept of Media and Information
 Chris Frilingos | Faculty member |
-**Dr. Gideon Bradburd | Assistant Professor | Dept of Integrative Biology**
+**Dr. Gideon Bradburd** | Assistant Professor | Dept of Integrative Biology
 Laura Schmitt Olabisi | Associate Professor
 David Lowry | Associate Professor | Dept of Plant Biology
 Laura Chomiuk | Associate Professor | Dept of Physics and Astronomy
@@ -37,13 +37,13 @@ Anthony Kendall | Research Assistant Professor | Earth & Environmental Sciences
 ### Staff & Postdoctoral Researchers
 
 Dr. Jackson Helms | Postdoctoral Researcher | Kellogg Biological Station
-**Dr. Brendan Reid** | **Postdoctoral Researcher** | **Kellogg Biological Station**
+**Dr. Brendan Reid** | Postdoctoral Researcher | Kellogg Biological Station
 Erica Fischer, MS | Staff |
 Zac Johnston | Postdoctoral Researcher | Physics & Astronomy
 Paul Bergeron | Postdoctoral Researcher |
-**Acer VanWallendael | Postdoctoral Researcher |**
+**Acer VanWallendael** | Postdoctoral Researcher |
 Abigail Stevens, PhD | Postdoctoral Researcher | Physics & Astronomy
-**Matteo Tomasini | Postdoctoral Researcher | Integrative Biology**
+**Matteo Tomasini** | Postdoctoral Researcher | Integrative Biology
 
 ### Graduate Students
 
@@ -81,7 +81,7 @@ Jack O'Brien | |
 Isabela Molina | PhD Student | Physics & Astronomy
 Jeremy Neefus | PhD Candidate | Philosophy
 Kevin McCormick | PhD Candidate | Integrative Biology
-**Kyle Jaynes | PhD Student | Integrative Biology** 
+**Kyle Jaynes** | PhD Student | Integrative Biology
 Anonymous graduate student | |
 
 ### Undergraduate Students

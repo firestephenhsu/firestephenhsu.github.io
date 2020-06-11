@@ -10,7 +10,7 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 # Signatures
 
-_Last Update: June 11, 1:33 PM EST_
+_Last Update: June 11, 2:32 PM EST_
 
 ## MSU
 
@@ -22,6 +22,11 @@ Dr. Gideon Bradburd | Assistant Professor | Dept of Integrative Biology
 Laura Schmitt Olabisi | Associate Professor
 David Lowry | Associate Professor | Dept of Plant Biology
 Laura Chomiuk | Associate Professor | Dept of Physics and Astronomy
+Anna Pegler-Gordon | Professor | James Madison College
+E. Starr | | Writing, Rhetoric, & American Cultures
+
+### Postdoctoral Researchers
+Dr. Jackson Helms | Postdoctoral Researcher | KBS
 
 ### Graduate Students
 
@@ -49,6 +54,13 @@ Teresa Panurach | PhD Student | Physics & Astronomy
 CJ Llorente | PhD Student | Physics & Astronomy
 Rebecca Shay | PhD Candidate |
 Brandon Barker | PhD Student |
+Rachel Frisbie | PhD Candidate | Physics & Astronomy
+Claire Kopenhafer | PhD Student | Physics & Astronomy, CMSE
+Julian Liber | MS Student | Plant Biology
+Brandon Johnson | PhD Student | Neuroscience
+KBS | PhD Candidate |
+Jeffrey Davis | PhD Student | Philosophy
+
 
 ### Undergraduate Students
 
@@ -66,6 +78,13 @@ Graduate Employees Union
 Anya Vostinar | PhD 
 Tess Huelskamp | Computer Science '17
 Mackenzie Caple | PhD, Kellogg Biological Station
+Megan Davis | Physics & Astronomy, BSc '19 | current PhD Student, University of Connecticut
+Nicole Strobel | Film & Media Studies | current PhD Candidate, UC Santa Barbara
+Acacia Costales | James Madison College |
+Miranda | |
+Claudia Allou | James Madison College |
+Alex Brown | BA |
+
 
 ### Other Community Allies
 
@@ -85,3 +104,9 @@ Zachary Park | PhD Candidate | Georgetown University
 Levi Gray | Postdoc | Biology Department, University of Kentucky
 Hannah Davis | |
 Martha Reiskind | Research Assistant Professor | North Carolina State University
+Cathryn Townsend | PhD |
+Michael Evitts | MS |
+Rebecca Froebe | |
+Laura Jessup | PhD Student | Department of Forestry and Natural Resources, Purdue University
+Jeremy Canfield | PhD Student | Physics, Georgetown University
+Heidi Abresch | PhD Student |

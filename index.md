@@ -10,13 +10,18 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 # Signatures
 
-_Last Update: June 11, 12:02 PM EST_
+_Last Update: June 11, 12:08 PM EST_
 
 ## MSU
 
+### Faculty & Academic Staff
+
+Dr. Susan Wyche | Associate Professor | Dept of Media and Information
+
+
 ### Graduate Students
 
-Acacia Ackles | PhD Student
+Acacia Ackles | PhD Student 
 Kevin Bird | PhD Candidate
 McKayla Sluga | PhD Candidate
 Matthew Andres Moreno | PhD Student
@@ -25,6 +30,7 @@ Alexander Lalejini | PhD Candidate
 Daniel Turner | PhD Student
 Jeremy Pardo | PhD Candidate
 Meaghan Clark | PhD Student
+itatiVCS | PhD Student
 
 ### Organizations
 
@@ -34,3 +40,5 @@ Graduate Employees Union
 
 Olivia Borghi | PhD Student | University of Washington Department of Mathematics
 Dema K. | PhD Student |
+Chris Peritore-Galve | PhD |
+Kirke Elsass | PhD Student | Montana State University (Former Michigan resident)

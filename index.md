@@ -10,7 +10,7 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 # Signatures
 
-_Last Update: June 11, 2:32 PM EST_
+_Last Update: June 11, 3:04 PM EST_
 
 ## MSU
 
@@ -24,10 +24,14 @@ David Lowry | Associate Professor | Dept of Plant Biology
 Laura Chomiuk | Associate Professor | Dept of Physics and Astronomy
 Anna Pegler-Gordon | Professor | James Madison College
 E. Starr | | Writing, Rhetoric, & American Cultures
+Heather L Eisthen | Professor | Integrative Biology
+Elizabeth Tinsley Johnson | Assistant Professor | Integrative Biology
 
-### Postdoctoral Researchers
+
+### Staff & Postdoctoral Researchers
 
 Dr. Jackson Helms | Postdoctoral Researcher | KBS
+Erica Fischer, MS | Staff |
 
 ### Graduate Students
 
@@ -61,6 +65,8 @@ Julian Liber | MS Student | Plant Biology
 Brandon Johnson | PhD Student | Neuroscience
 KBS | PhD Candidate |
 Jeffrey Davis | PhD Student | Philosophy
+Jack O'Brien | |
+Isabela Molina | PhD Student | Physics & Astronomy
 
 
 ### Undergraduate Students
@@ -85,6 +91,8 @@ Acacia Costales | James Madison College |
 Miranda | |
 Claudia Allou | James Madison College |
 Alex Brown | BA |
+Max Hughes | PhD |
+Huei Sears | Lyman Briggs College, BSc '17 | current PhD Student, Ohio University Dept of Physics & Astronomy
 
 
 ### Other Community Allies
@@ -111,3 +119,5 @@ Rebecca Froebe | |
 Laura Jessup | PhD Student | Department of Forestry and Natural Resources, Purdue University
 Jeremy Canfield | PhD Student | Physics, Georgetown University
 Heidi Abresch | PhD Student |
+Deb Gordon-Gurfinkel | | Lecturer & Program Director
+Jacqueline Cambata | |

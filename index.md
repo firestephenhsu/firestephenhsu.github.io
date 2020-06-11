@@ -191,7 +191,7 @@ Kathryn Hebert | PhD |
 Natalie M Wiseman | MD/PhD Candidate | Wayne State University, Department of Psychiatry and Behavioral Neurosciences
 Gaelen McCartney | |
 Naomi Goldberg | M.ed Student |
-**Thom Nelson, PhD**
+**Thom Nelson, PhD** | |
 **Nicholas Mancuso** | Assistant Professor| Prev Medicine, KSOM USC 
 Alex Clagg | |
 Andrew Drake | |

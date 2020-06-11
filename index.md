@@ -10,7 +10,7 @@ You can sign the open letter [here](https://docs.google.com/forms/d/e/1FAIpQLSdU
 
 # Signatures
 
-_Last Update: June 11, 12:08 PM EST_
+_Last Update: June 11, 12:18 PM EST_
 
 ## MSU
 
@@ -42,3 +42,5 @@ Olivia Borghi | PhD Student | University of Washington Department of Mathematics
 Dema K. | PhD Student |
 Chris Peritore-Galve | PhD |
 Kirke Elsass | PhD Student | Montana State University (Former Michigan resident)
+Shan Kothari | PhD student | Plant and Microbial Biology, University of Minnesota
+Brandon Locke | Former MSU instructor & curriculum developer

@@ -43,4 +43,4 @@ Dema K. | PhD Student |
 Chris Peritore-Galve | PhD |
 Kirke Elsass | PhD Student | Montana State University (Former Michigan resident)
 Shan Kothari | PhD student | Plant and Microbial Biology, University of Minnesota
-Brandon Locke | Former MSU instructor & curriculum developer
+Brandon Locke | | Former MSU instructor & curriculum developer

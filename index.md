@@ -6,19 +6,19 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to it’s commitment to be a diverse and inclusive institution and to change it’s institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls.
 
-We currently have **204** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
+We currently have **221** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
 
 [See another open letter from MSU faculty here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 11, 10:25 PM EST_
+_Last Update: June 12, 8:05 AM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
 ## MSU
 
-### Faculty & Academic Staff
+### Faculty
 
 Dr. Susan Wyche | Associate Professor | Dept of Media and Information
 Chris Frilingos | Faculty member |
@@ -53,24 +53,33 @@ Justus Nieland  | Professor and Chair | English
 Thomas D. Sharkey | MSU Distinguished Professor | Biochemistry & Molecular Biology
 Robert VanBuren | Assistant Professor | Horticulture
 Lars Brudvig | Associate Professor | Plant Biology
+Vashti Sawtelle | PhD
+Chris Sullivan, PhD | | Psychology
+Lewis Siegelbaum | Jack and Margaret Sweet Professor Emeritus | History
+Kristin Mahoney | Associate Professor | English
+
+### Postdoctoral Researchers
+
+Dr. Jackson Helms | Kellogg Biological Station
+**Dr. Brendan Reid** | Kellogg Biological Station
+Zac Johnston | Physics & Astronomy
+Paul Bergeron | 
+**Acer VanWallendael** | 
+Abigail Stevens, PhD | Physics & Astronomy
+**Matteo Tomasini** |  Integrative Biology
+Nate Emery, PhD | Plant Biology
+Jennifer Jones, PhD | Kellogg Biological Station
 
 
-### Staff & Postdoctoral Researchers
+### Academic & Research Staff
 
-Dr. Jackson Helms | Postdoctoral Researcher | Kellogg Biological Station
-**Dr. Brendan Reid** | Postdoctoral Researcher | Kellogg Biological Station
-Erica Fischer, MS | Staff |
-Zac Johnston | Postdoctoral Researcher | Physics & Astronomy
-Paul Bergeron | Postdoctoral Researcher |
-**Acer VanWallendael** | Postdoctoral Researcher |
-Abigail Stevens, PhD | Postdoctoral Researcher | Physics & Astronomy
-**Matteo Tomasini** | Postdoctoral Researcher | Integrative Biology
-Caroline Edwards | Staff | Plant Biology
-Nate Emery, PhD | Postdoctoral Researcher | Plant Biology
+Erica Fischer, MS | |
+Caroline Edwards | | Plant Biology
 Helen Rueckert | Research Technician | Integrative Biology
 David Salcedo Tacuma | Research Assistant | Physiology
 Taylor Lawrence | Lab Technician | Integrative Biology
-Jennifer Jones, PhD | Postdoctoral Researcher | Kellogg Biological Station
+Kendra Pyle | Academic Specialist - Advising | Biochemistry & Molecular Biology/Plant Biology
+Eleri Thomas | Academic Program Coordinator | Neuroscience
 
 ### Graduate Students
 
@@ -147,12 +156,20 @@ Brad Day | PhD Student | Plant, Soil, and Microbial Sciences
 Alexandria Kuhl | PhD Candidate | Earth and Environmental Sciences
 **Ava Garrison** | PhD Candidate | Plant Biology
 **Vincent Ragusa** | PhD Student | Computer Science & Engineering 
+Evan Brenner | PhD Student | Comparative Medicine & Integrative Biology
+Olivia Fitch | PhD Student | Integrative Biology
+ALH | PhD Candidate |
+Patrick Abell | | Horticulture
+Laura Castro | PhD Student |
+Briana Williams | PhD Student | Social Psychology
+Kathryn Carpenter | MS Student |
 
 ### Undergraduate Students
 
 Maggie Haite | Lyman Briggs, Honors College
 Alexander Urlaub | Entomology
 Nick Confer | Chemistry
+Hazel Anderson | Plant Biology
 
 ### Organizations
 
@@ -180,7 +197,7 @@ Alex Galarza | History PhD '17 | currently at University of Delaware
 Nikolai Yezhov | PhD |
 **Justin Waraniak** | | currently PhD Student, North Dakota State University
 **Dr. Kelsey Yule** | PhD | School of Life Sciences, Arizona State University, former MSU PostDoc in Integrative Biology
-
+Robert Johnson | MBA |
 
 ### Other Community Allies
 
@@ -245,3 +262,6 @@ Kathleen Gleason | Reporter | LCC Radio
 Nina | |
 Alexndria Barkman | PhD Candidate | University of Hawaii
 Elliott Brennan | |
+**Adam Clare Herman** | PhD | University of Minnesota
+André Hudson | Professor/Head | Rochester Institute of Technology, Thomas H. Gosnell School of Life Sciences
+Olivia Guest | PhD |

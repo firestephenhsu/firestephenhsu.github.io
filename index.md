@@ -6,13 +6,13 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to it’s commitment to be a diverse and inclusive institution and to change it’s institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls.
 
-We currently have **200** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
+We currently have **204** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
 
 [See another open letter from MSU faculty here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 11, 9:54 PM EST_
+_Last Update: June 11, 10:25 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -52,6 +52,7 @@ Catherine M. Grosso | Professor | College of Law
 Justus Nieland  | Professor and Chair | English 
 Thomas D. Sharkey | MSU Distinguished Professor | Biochemistry & Molecular Biology
 Robert VanBuren | Assistant Professor | Horticulture
+Lars Brudvig | Associate Professor | Plant Biology
 
 
 ### Staff & Postdoctoral Researchers
@@ -70,7 +71,6 @@ Helen Rueckert | Research Technician | Integrative Biology
 David Salcedo Tacuma | Research Assistant | Physiology
 Taylor Lawrence | Lab Technician | Integrative Biology
 Jennifer Jones, PhD | Postdoctoral Researcher | Kellogg Biological Station
-Lars Brudvig | Associate Professor | Plant Biology
 
 ### Graduate Students
 
@@ -146,6 +146,7 @@ Christina Chu | PhD Student | Plant, Soil, and Microbial Sciences
 Brad Day | PhD Student | Plant, Soil, and Microbial Sciences
 Alexandria Kuhl | PhD Candidate | Earth and Environmental Sciences
 **Ava Garrison** | PhD Candidate | Plant Biology
+**Vincent Ragusa** | PhD Student | Computer Science & Engineering 
 
 ### Undergraduate Students
 
@@ -241,3 +242,6 @@ João Gabriel Rabello Sodré | PhD Student | History, Georgetown University
 Melanie Schmitt | MHA |
 Sruthi Gohimukkula | MD Candidate | Lewis Katz School of Medicine, Temple University
 Kathleen Gleason | Reporter | LCC Radio
+Nina | |
+Alexndria Barkman | PhD Candidate | University of Hawaii
+Elliott Brennan | |

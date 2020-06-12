@@ -6,13 +6,13 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **287** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **298** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 
-[See another open letter from MSU faculty, currently signed by 188 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
+[See another open letter from MSU faculty, currently signed by 197 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 12, 4:12 PM EST_
+_Last Update: June 12, 4:49 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -77,6 +77,10 @@ Richard Lenski | John Hannah Distinguished Professor | Departments of Microbiolo
 Rosemarie Handley | |
 Haddish Melakeberhan | Associate Professor | Horticulture
 Peggy Ostrom | Professor | Integrative Biology
+Lynmarie Posey | Associate Professor | Chemistry
+Corey Washington, PhD | Director of Analytics |
+Courtney Hollender | Assistant Professor | Horticulture
+Melissa Woo, PhD | Senior Vice President for Information Technology |
 
 
 ### Postdoctoral Researchers
@@ -98,7 +102,7 @@ Chris Mancuso, PhD | Research Associate / NIF F32 Fellow, CMSE
 Monique Kelly, PhD | Sociology
 **Shannon O'Leary, PhD** | Integrative Biology
 Nakia D Parker, PhD | History
-
+**Tasha Thompson, PhD** | Integrative Biology
 
 ### Academic & Research Staff
 
@@ -115,6 +119,7 @@ John R. Taylor, PsyD | Supervisory Staff | College of Osteopathic Medicine
 Holly Vander Stel | | Kellogg Biological Station
 Katie Greulich | PhD | Eli and Edythe Broad Art Museum
 Dessie Clark | PhD | Office of Academic and Student Affairs, CANR
+
 
 
 ### Graduate Students
@@ -214,6 +219,8 @@ Nicholas Young | PhD Student | Physics & Astronomy, CMSE
 Livy Drexler | PhD Student | Anthropology
 Riley Pizza | PhD Student | Plant Biology
 Shawna Rowe | PhD Candidate | Plant Biology
+Alexander Aaring | PhD Student | Microbiology & Molecular Genetics
+Zoe Hansen | PhD Candidate | Microbiology and Molecular Genetics
 
 ### Undergraduate Students
 
@@ -258,6 +265,7 @@ Christian Millan Hernandez | MS Entomology | currently at UUC
 Kristen Schmitt | MS Fisheries and Wildlife
 Dr. Eli Strauss||
 Emma Baker||
+Daniel Parrell | PhD '19 |
 
 ### Other Community Allies
 
@@ -332,3 +340,5 @@ Antigona Segura | PhD | Universidad Nacional Autónoma de México
 Zoha S. | PhD Student |
 James McGuire ||
 **Sarah Turner-Hissong**|PhD|
+Esse Tran Morgaine | MSc | MIT
+**Jeremy B. Yoder** | Assistant Professor | Biology, CSU Northridge

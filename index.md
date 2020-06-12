@@ -4,7 +4,7 @@ We are faculty, students, support staff, and allies within and outside Michigan 
 
 The concerns expressed by the Graduate Employees Union [[twitter]](https://twitter.com/GradEmpUnion/status/1270829003130261504) [[unrolled]](https://threadreaderapp.com/thread/1270829003130261504.html) and other individuals familiar with Hsu indicates an individual that cannot uphold our University Mission or [our commitment to Diversity, Equity, and Inclusion](https://trustees.msu.edu/about/statement-diversity-inclusion.html). Given this discordance with university values, Stephen Hsu should not be privileged with the power and responsibility of recruiting and funding scholars, overseeing ethical conduct, or coordinating graduate study.
 
-By signing this open letter we ask MSU to follow through to it’s commitment to be a diverse and inclusive institution and to change it’s institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
+By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
 We currently have **264** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 

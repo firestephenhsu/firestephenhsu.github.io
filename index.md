@@ -22,7 +22,7 @@ Dr. Susan Wyche | Associate Professor | Dept of Media and Information
 Chris Frilingos | Faculty member |
 **Dr. Gideon Bradburd** | Assistant Professor | Dept of Integrative Biology
 Laura Schmitt Olabisi | Associate Professor
-David Lowry | Associate Professor | Dept of Plant Biology
+David Lowry | Assistant Professor | Dept of Plant Biology
 Laura Chomiuk | Associate Professor | Dept of Physics and Astronomy
 Anna Pegler-Gordon | Professor | James Madison College
 E. Starr | | Writing, Rhetoric, & American Cultures
@@ -44,6 +44,10 @@ Tom Fernandez | Professor | Horticulture
 Amara E. Ezeamama | Assistant Professor | Psychiatry
 Zarena Aslami | Associate Professor | English
 Aaron M. McCright | Professor and Chairperson | Sociology
+Amy DeRogatis | Professor | Religious Studies
+Susan Stein-Roggenbuck | Assistant Professor | James Madison Colloge
+Catherine M. Grosso | Professor | College of Law
+Justus Nieland  |  Professor and Chair| English 
 
 
 ### Staff & Postdoctoral Researchers
@@ -60,6 +64,7 @@ Caroline Edwards | Staff | Plant Biology
 Nate Emery, PhD | Postdoctoral Researcher | Plant Biology
 Helen Rueckert | Research Technician | Integrative Biology
 David Salcedo Tacuma | Research Assistant | Physiology
+Taylor Lawrence | Lab Technician | Integrative Biology
 
 ### Graduate Students
 
@@ -117,8 +122,15 @@ Juan Carlos Rico Noguera | PhD Student |
 MB | PhD Student |
 Jeff Burnett | PhD Student | Anthropology |
 Aimer A. Gutierrez-Diaz | PhD Student |
-
-
+**Sara Hugentobler** | PhD Student | Integrative Biology
+Clayton Oppenhuizen  | PhD Candidate
+Michael J. Albani | PhD Candidate | History
+Maria Garcia | PhD Student
+Max Helmberger | PhD Student | Entomology
+Chris Gottschalk | PhD Candidate | Horticulture
+Mackenzie Norman | PhD Student | School Psychology
+Andrés Felipe Galindo Olarte | PhD Student | Mathematics
+ALM | PhD Student
 ### Undergraduate Students
 
 Maggie Haite | Lyman Briggs, Honors College
@@ -198,3 +210,13 @@ Andrew Drake | |
 Stephanie David | |
 Jonathan Kaplan | Professor | Oregon State University, Department of Philosophy
 Morgan Cassidy  | Sustainability Specialist |
+Madison Flasco ||
+Anna Rose Beard ||
+Molly Green | PhD Candidate | UNC-Chapel Hill Department of Anthropology
+**Jedidiah Carlson** | Postdoctoral Researcher | University of Washington
+Nancy Dordal | JD Candidate | University of Maryland Baltimore
+Erin Moran ||
+Adán Quan | PhD |
+Jake Weissman | Postdoctoral Scholar | Biology, USC
+**Brandon S. Cooper** | Assistant Professor | University of Montana
+Viktorya | |

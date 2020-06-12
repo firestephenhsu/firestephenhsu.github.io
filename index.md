@@ -6,13 +6,13 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **264** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **269** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 
 [See another open letter from MSU faculty, currently signed by 154 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 12, 1:38 PM EST_
+_Last Update: June 12, 2:36 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -70,6 +70,8 @@ Erica Frantz | Associate Professor |
 Allison Berg | Associate Professor | James Madison College
 Bruce Sagan, PhD | | Department of Mathematics
 Marjorie Weber | Assistant Professor | Plant Biology
+Lily Woodruff | Associate Professor| Art, Art History and Design
+**Jeffrey Conner** | Professor | 
 
 ### Postdoctoral Researchers
 
@@ -197,6 +199,7 @@ Emily Conway | PhD Student | Plant Biology
 McKena Lipham | PhD Student | Plant Biology
 Nicholas Young | PhD Student | Physics & Astronomy, CMSE
 Livy Drexler | PhD Student | Anthropology
+Riley Pizza | PhD Student | Plant Biology
 
 ### Undergraduate Students
 
@@ -235,6 +238,7 @@ Nikolai Yezhov | PhD |
 Robert Johnson | MBA |
 GlenEllen Lehmberg | |
 Christian Millan Hernandez | MS Entomology | currently at UUC
+Kristen Schmitt | MS Fisheries and Wildlife
 
 ### Other Community Allies
 
@@ -306,3 +310,4 @@ James Lingford | Research Assistant | University of Melbourne
 **Mark Hibbins** | PhD Candidate | Indiana University Department of Biology
 Yilen Gomez Maqueo Chew | Research Professor | Instituto de Astronomia UNAM
 Antigona Segura | PhD | Universidad Nacional Autónoma de México
+Zoha S. | PhD Student |

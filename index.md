@@ -6,13 +6,13 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to it’s commitment to be a diverse and inclusive institution and to change it’s institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **229** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **257** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 
 [See another open letter from MSU faculty here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 12, 9:23 AM EST_
+_Last Update: June 12, 12:20 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -58,6 +58,17 @@ Chris Sullivan, PhD | | Psychology
 Lewis Siegelbaum | Jack and Margaret Sweet Professor Emeritus | History
 Kristin Mahoney | Associate Professor | English
 **Sarah W. Fitzpatrick, PhD** | | W.K. Kellogg Biological Station/Integrative Biology
+Stacy Hickox, JD | | School of Human Resources & Labor Relations
+Joshua Lam | Assistant Professor | English
+Divya Victor, PhD | Assistant Professor | English
+Andrea Wittenborn | Associate Professor | Human Development & Family Studies
+Naoko Wake, PhD | Associate Professor | Lyman Briggs/History
+David R. Ewoldsen, PhD | | Community Sustainability
+Robert B. Richardson | Professor | Community Sustainability
+Leslie D. Gonzales | Associate Professor | EAD
+Erica Frantz | Associate Professor |
+Allison Berg | Associate Professor | James Madison College
+Bruce Sagan, PhD | | Department of Mathematics
 
 ### Postdoctoral Researchers
 
@@ -70,6 +81,7 @@ Abigail Stevens, PhD | Physics & Astronomy
 **Matteo Tomasini** |  Integrative Biology
 Nate Emery, PhD | Plant Biology
 Jennifer Jones, PhD | Kellogg Biological Station
+Nathan Haan, PhD | Entomology
 
 ### Academic & Research Staff
 
@@ -81,6 +93,9 @@ Taylor Lawrence | Lab Technician | Integrative Biology
 Kendra Pyle | Academic Specialist - Advising | Biochemistry & Molecular Biology/Plant Biology
 Eleri Thomas | Academic Program Coordinator | Neuroscience
 Luke Zehr, MS | | Entomology
+Kevin Lucas | Professional Aide | 
+John R. Taylor, PsyD | Supervisory Staff | College of Osteopathic Medicine
+Holly Vander Stel | | Kellogg Biological Station
 
 ### Graduate Students
 
@@ -166,7 +181,15 @@ Briana Williams | PhD Student | Social Psychology
 Kathryn Carpenter | MS Student |
 Kayleigh Hauri | PhD Student |
 Meagan Abel | PhD Student |
-Joseph Stachelek | PhD Candidate
+Joseph Stachelek | PhD Candidate |
+Robert Logan | PhD Candidate | Kellogg Biological Station/Integrative Biology
+Danielle Chiaramonte | PhD Student | Ecological-Community Psychology
+Brenna Helm | PhD Student |
+Grace Krause | PhD Candidate | Anthropology
+Ronny Ford | PhD Student | English
+Kalia Smith | PhD Student | Plant Biology
+Emily Conway | PhD Student | Plant Biology
+McKena Lipahm | PhD Student | Plant Biology
 
 ### Undergraduate Students
 
@@ -203,6 +226,7 @@ Nikolai Yezhov | PhD |
 **Dr. Kelsey Yule** | PhD | School of Life Sciences, Arizona State University, former MSU PostDoc in Integrative Biology
 Robert Johnson | MBA |
 GlenEllen Lehmberg | |
+Christian Millan Hernandez | MS Entomology | currently at UUC
 
 ### Other Community Allies
 
@@ -272,3 +296,5 @@ André Hudson | Professor/Head | Rochester Institute of Technology, Thomas H. Go
 Olivia Guest | PhD |
 James Lingford | Research Assistant | University of Melbourne
 **Mark Hibbins** | PhD Candidate | Indiana University Department of Biology
+Yilen Gomez Maqueo Chew | Research Professor | Instituto de Astronomia UNAM
+Antigona Segura | PhD | Universidad Nacional Autónoma de México

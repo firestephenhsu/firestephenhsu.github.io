@@ -6,13 +6,13 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to it’s commitment to be a diverse and inclusive institution and to change it’s institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls.
 
-We currently have **221** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
+We currently have **229** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
 
 [See another open letter from MSU faculty here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 12, 8:05 AM EST_
+_Last Update: June 12, 9:23 AM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -57,6 +57,7 @@ Vashti Sawtelle | PhD
 Chris Sullivan, PhD | | Psychology
 Lewis Siegelbaum | Jack and Margaret Sweet Professor Emeritus | History
 Kristin Mahoney | Associate Professor | English
+**Sarah W. Fitzpatrick, PhD** | | W.K. Kellogg Biological Station/Integrative Biology
 
 ### Postdoctoral Researchers
 
@@ -70,7 +71,6 @@ Abigail Stevens, PhD | Physics & Astronomy
 Nate Emery, PhD | Plant Biology
 Jennifer Jones, PhD | Kellogg Biological Station
 
-
 ### Academic & Research Staff
 
 Erica Fischer, MS | |
@@ -80,6 +80,7 @@ David Salcedo Tacuma | Research Assistant | Physiology
 Taylor Lawrence | Lab Technician | Integrative Biology
 Kendra Pyle | Academic Specialist - Advising | Biochemistry & Molecular Biology/Plant Biology
 Eleri Thomas | Academic Program Coordinator | Neuroscience
+Luke Zehr, MS | | Entomology
 
 ### Graduate Students
 
@@ -163,6 +164,9 @@ Patrick Abell | | Horticulture
 Laura Castro | PhD Student |
 Briana Williams | PhD Student | Social Psychology
 Kathryn Carpenter | MS Student |
+Kayleigh Hauri | PhD Student |
+Meagan Abel | PhD Student |
+Joseph Stachelek | PhD Candidate
 
 ### Undergraduate Students
 
@@ -198,6 +202,7 @@ Nikolai Yezhov | PhD |
 **Justin Waraniak** | | currently PhD Student, North Dakota State University
 **Dr. Kelsey Yule** | PhD | School of Life Sciences, Arizona State University, former MSU PostDoc in Integrative Biology
 Robert Johnson | MBA |
+GlenEllen Lehmberg | |
 
 ### Other Community Allies
 
@@ -265,3 +270,5 @@ Elliott Brennan | |
 **Adam Clare Herman** | PhD | University of Minnesota
 André Hudson | Professor/Head | Rochester Institute of Technology, Thomas H. Gosnell School of Life Sciences
 Olivia Guest | PhD |
+James Lingford | Research Assistant | University of Melbourne
+**Mark Hibbins** | PhD Candidate | Indiana University Department of Biology

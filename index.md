@@ -6,13 +6,13 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to it’s commitment to be a diverse and inclusive institution and to change it’s institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls.
 
-We currently have **181** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
+We currently have **197** signatures. You can add yours [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).
 
 [See another open letter from MSU faculty here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 11, 8:29 PM EST_
+_Last Update: June 11, 9:38 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -49,7 +49,8 @@ Aaron M. McCright | Professor and Chairperson | Sociology
 Amy DeRogatis | Professor | Religious Studies
 Susan Stein-Roggenbuck | Assistant Professor | James Madison Colloge
 Catherine M. Grosso | Professor | College of Law
-Justus Nieland  |  Professor and Chair| English 
+Justus Nieland  | Professor and Chair | English 
+Thomas D. Sharkey | MSU Distinguished Professor | Biochemistry & Molecular Biology
 
 
 ### Staff & Postdoctoral Researchers
@@ -67,6 +68,8 @@ Nate Emery, PhD | Postdoctoral Researcher | Plant Biology
 Helen Rueckert | Research Technician | Integrative Biology
 David Salcedo Tacuma | Research Assistant | Physiology
 Taylor Lawrence | Lab Technician | Integrative Biology
+Jennifer Jones, PhD | Postdoctoral Researcher | Kellogg Biological Station
+Lars Brudvig | Associate Professor | Plant Biology
 
 ### Graduate Students
 
@@ -111,6 +114,7 @@ Seth Smith | PhD Student | Integrative Biology
 Elizeth Cinto Meija | PhD Candidate |
 Katherine Skocelas | PhD Student | Computer Science & Engineering
 Paul Hamerski | PhD Candidate |
+Anonymous Graduate Student | |
 Serena G. Lotreck | PhD Student | Plant Biology
 Jeremy Rapp | MS Student | Earth and Environmental Sciences
 Jose Guadalupe Hernandez | PhD Student | Computer Science & Engineering
@@ -132,7 +136,14 @@ Chris Gottschalk | PhD Candidate | Horticulture
 Mackenzie Norman | PhD Student | School Psychology
 Andrés Felipe Galindo Olarte | PhD Student | Mathematics
 ALM | PhD Student
-Anonymous graduate student | |
+Anonymous Graduate Student | PhD Student | Environmental Sciences 
+Connie A. Rojas | PhD Candidate | Integrative Biology
+Kristen Dage | PhD Candidate | Ecology, Evolutionary Biology, and Behavior
+Olivia Fitch | PhD Student | Integrative Biology
+Anonymous Graduate Student | PhD Student | Environmental Sciences
+Christina Chu | PhD Student | Plant, Soil, and Microbial Sciences
+Brad Day | PhD Student | Plant, Soil, and Microbial Sciences
+Alexandria Kuhl | PhD Candidate | Earth and Environmental Sciences
 
 ### Undergraduate Students
 
@@ -223,3 +234,7 @@ Adán Quan | PhD |
 Jake Weissman | Postdoctoral Scholar | Biology, USC
 **Brandon S. Cooper** | Assistant Professor | University of Montana
 Viktorya | |
+Kristen Hairston | |
+João Gabriel Rabello Sodré | PhD Student | History, Georgetown University
+Melanie Schmitt | MHA |
+Sruthi Gohimukkula | MD Candidate | Lewis Katz School of Medicine, Temple University

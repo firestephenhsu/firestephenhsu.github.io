@@ -74,7 +74,7 @@ Lily Woodruff | Associate Professor| Art, Art History and Design
 **Jeffrey Conner** | Professor | 
 Keith Promislow | Professor | Mathematics
 Richard Lenski | John Hannah Distinguished Professor | Departments of Microbiology & Molecular Genetics; Plant, Soil & Microbial Sciences; and Integrative Bology
-Rosemarie Handley
+Rosemarie Handley | |
 Haddish Melakeberhan | Associate Professor | Horticulture
 Peggy Ostrom | Professor | Integrative Biology
 

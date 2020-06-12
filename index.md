@@ -234,6 +234,7 @@ Jackie Brandonisio | Food Sciences
 ### Organizations
 
 Graduate Employees Union
+
 MSU Counseling and Psychiatric Services
 
 ## Outside MSU

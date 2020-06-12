@@ -6,9 +6,9 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **269** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **272** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 
-[See another open letter from MSU faculty, currently signed by 154 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
+[See another open letter from MSU faculty, currently signed by 181 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
@@ -72,6 +72,8 @@ Bruce Sagan, PhD | | Department of Mathematics
 Marjorie Weber | Assistant Professor | Plant Biology
 Lily Woodruff | Associate Professor| Art, Art History and Design
 **Jeffrey Conner** | Professor | 
+Keith Promislow | Professor | Mathematics
+Richard Lenski | John Hannah Distinguished Professor | Departments of Microbiology & Molecular Genetics; Plant, Soil & Microbial Sciences; and Integrative Bology
 
 ### Postdoctoral Researchers
 
@@ -85,9 +87,10 @@ Abigail Stevens, PhD | Physics & Astronomy
 Nate Emery, PhD | Plant Biology
 Jennifer Jones, PhD | Kellogg Biological Station
 Nathan Haan, PhD | Entomology
-Rose Marks, PhD | |
+Rose Marks, PhD | 
 Jennifer Wai, PhD | Horticulture
 Chris Mancuso, PhD | Research Associate / NIF F32 Fellow, CMSE
+**Nadya Mamoozadeh, PhD** |
 
 
 ### Academic & Research Staff

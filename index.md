@@ -78,9 +78,7 @@ Rosemarie Handley | |
 Haddish Melakeberhan | Associate Professor | Horticulture
 Peggy Ostrom | Professor | Integrative Biology
 Lynmarie Posey | Associate Professor | Chemistry
-Corey Washington, PhD | Director of Analytics |
 Courtney Hollender | Assistant Professor | Horticulture
-Melissa Woo, PhD | Senior Vice President for Information Technology |
 Melanie Cooper | Professor | Chemistry
 Dan  Chitwood | Asisstant Professor | Horticulture/Computational Mathematics, Science, and Engineering
 Anonymous Professor | Professor | Chemistry

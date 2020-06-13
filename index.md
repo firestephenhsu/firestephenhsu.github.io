@@ -216,7 +216,7 @@ Christina Chu | PhD Student | Plant, Soil, and Microbial Sciences
 Brad Day | PhD Student | Plant, Soil, and Microbial Sciences
 Alexandria Kuhl | PhD Candidate | Earth and Environmental Sciences
 **Ava Garrison** | PhD Candidate | Plant Biology
-**Vincent Ragusa** | PhD Student | Computer Science & Engineering 
+Vincent Ragusa | PhD Student | Computer Science & Engineering 
 Evan Brenner | PhD Student | Comparative Medicine & Integrative Biology
 Olivia Fitch | PhD Student | Integrative Biology
 ALH | PhD Candidate |

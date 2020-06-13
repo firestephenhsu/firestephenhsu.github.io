@@ -14,6 +14,8 @@ We currently have **341** signatures. **You can add your signature [here](https:
 
 _Last Update: June 13, 8:10 AM EST_
 
+_For any corrections, please email organizing@geuatmsu.org_
+
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
 ## MSU

@@ -8,6 +8,7 @@ By signing this open letter we ask MSU to follow through to its commitment to be
 
 We currently have **358** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* please note due to the volume of submissions we are unable to completely verify submissions. If your name has been falsely submitted please email president@geuatmsu.org*
+
 [See another open letter from MSU faculty, currently signed by 273 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures

@@ -6,13 +6,13 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **322** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **341** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 
-[See another open letter from MSU faculty, currently signed by 223 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
+[See another open letter from MSU faculty, currently signed by 243 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 12, 8:19 PM EST_
+_Last Update: June 13, 8:10 AM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -89,6 +89,8 @@ Leigh VanHandel | Associate Professor | Music
 Donatien Pascal Kamden, PhD | | Packaging
 Elliot Ryser | Professor | Food Science & Human Nutrition
 Piotr Piecuch | University Distinguished Professor, MSU Foundation Professor | Chemistry
+Jason Gallant | Assistant Professor | Integrative Biology
+Benjamin Levine | Associate Professor | Chemistry
 
 ### Postdoctoral Researchers
 
@@ -129,6 +131,7 @@ Katie Greulich | PhD | Eli and Edythe Broad Art Museum
 Dessie Clark | PhD | Office of Academic and Student Affairs, CANR
 Cheryl Leece | Academic Research Staff (Retired) | Human Medicine
 **Danny Jackson** | Research Assistant | Plant Biology
+Moriah Young | Research Assistant | Integrative Biology
 
 ### Graduate Students
 
@@ -233,6 +236,12 @@ Savvas Constantinou | PhD Candidate | Integrative Biology
 Thilani Jayakody | PhD Student |
 Corbin J. Standley | PhD Student | 
 Vee Lawson | PhD Student | Writing, Rhetoric, & American Culture
+Hannah Franklin Grisham | PhD Student |
+Anna Christina Martinez-Hume | PhD Candidate | Anthropology
+Sabrina Perlman | PhD Candidate | Anthropology
+Ying-Jen Lin | PhD Student | Anthropology
+Jack Stack | MS Student | Earth & Environmental Sciences
+Edward Glayzer | PhD Candidate | Anthropology
 
 ### Undergraduate Students
 
@@ -243,6 +252,8 @@ Hazel Anderson | Plant Biology
 Abigail Seeger | Plant Biology and Statistics
 Jackie Brandonisio | Food Sciences
 Ally Brown |
+Joseph Deschaine | Mechanical Engineering
+Andrew Bracken | Residential College of Arts and Humanities
 
 ### Organizations
 
@@ -278,7 +289,8 @@ Dr. Eli Strauss||
 Emma Baker||
 Daniel Parrell | PhD '19 |
 Emly Toppen | College of Arts & Letters |
-
+Joshua Pang | BA Finance, BS Actuarial Science |
+Elizabeth Abdnour | |
 
 ### Other Community Allies
 
@@ -362,3 +374,8 @@ Matthew R. Fox | | Northumbria University
 Gabriel Stephens | PhD Candidate | Baylor College of Medicine, Neuroscience Department 
 Alejandra Canales | PhD Candidate | Neuroscience, UW-Madison
 Nicholas Bray | PhD | Broad Institute
+Melanie Schmitt | MHA |
+Mai-Ly Tran | | University of Michigan
+Cameron Clarke | PhD Student | Stony Brook University, Department of Physics & Astronomy
+Anonymous | MD Student | Drexel University College of Medicine
+Leslie Abraham | MD Candidate |

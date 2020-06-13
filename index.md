@@ -6,13 +6,13 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **302** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **322** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 
-[See another open letter from MSU faculty, currently signed by 203 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
+[See another open letter from MSU faculty, currently signed by 223 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 12, 4:49 PM EST_
+_Last Update: June 12, 8:19 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -82,6 +82,13 @@ Corey Washington, PhD | Director of Analytics |
 Courtney Hollender | Assistant Professor | Horticulture
 Melissa Woo, PhD | Senior Vice President for Information Technology |
 Melanie Cooper | Professor | Chemistry
+Dan  Chitwood | Asisstant Professor | Horticulture/Computational Mathematics, Science, and Engineering
+Anonymous Professor | Professor | Chemistry
+Anonymouse Professor | Professor | Sociology
+Leigh VanHandel | Associate Professor | Music
+Donatien Pascal Kamden, PhD | | Packaging
+Elliot Ryser | Professor | Food Science & Human Nutrition
+Piotr Piecuch | University Distinguished Professor, MSU Foundation Professor | Chemistry
 
 ### Postdoctoral Researchers
 
@@ -103,6 +110,7 @@ Monique Kelly, PhD | Sociology
 **Shannon O'Leary, PhD** | Integrative Biology
 Nakia D Parker, PhD | History
 **Tasha Thompson, PhD** | Integrative Biology
+Dr. Norman Scheel, PhD | Radiology
 
 ### Academic & Research Staff
 
@@ -119,6 +127,8 @@ John R. Taylor, PsyD | Supervisory Staff | College of Osteopathic Medicine
 Holly Vander Stel | | Kellogg Biological Station
 Katie Greulich | PhD | Eli and Edythe Broad Art Museum
 Dessie Clark | PhD | Office of Academic and Student Affairs, CANR
+Cheryl Leece | Academic Research Staff (Retired) | Human Medicine
+**Danny Jackson** | Research Assistant | Plant Biology
 
 ### Graduate Students
 
@@ -220,6 +230,9 @@ Shawna Rowe | PhD Candidate | Plant Biology
 Alexander Aaring | PhD Student | Microbiology & Molecular Genetics
 Zoe Hansen | PhD Candidate | Microbiology and Molecular Genetics
 Savvas Constantinou | PhD Candidate | Integrative Biology
+Thilani Jayakody | PhD Student |
+Corbin J. Standley | PhD Student | 
+Vee Lawson | PhD Student | Writing, Rhetoric, & American Culture
 
 ### Undergraduate Students
 
@@ -229,7 +242,7 @@ Nick Confer | Chemistry
 Hazel Anderson | Plant Biology
 Abigail Seeger | Plant Biology and Statistics
 Jackie Brandonisio | Food Sciences
-
+Ally Brown |
 
 ### Organizations
 
@@ -264,6 +277,7 @@ Kristen Schmitt | MS Fisheries and Wildlife
 Dr. Eli Strauss||
 Emma Baker||
 Daniel Parrell | PhD '19 |
+Emly Toppen | College of Arts & Letters |
 
 
 ### Other Community Allies
@@ -343,3 +357,8 @@ Esse Tran Morgaine | MSc | MIT
 **Jeremy B. Yoder** | Assistant Professor | Biology, CSU Northridge
 Mauna Dasari | Phd Candidate | Ecology, Department of Biological Sciences, University of Notre Dame
 Rodolfo Palma | |
+Ivan Baxter | Principal Investigator | 
+Matthew R. Fox | | Northumbria University
+Gabriel Stephens | PhD Candidate | Baylor College of Medicine, Neuroscience Department 
+Alejandra Canales | PhD Candidate | Neuroscience, UW-Madison
+Nicholas Bray | PhD | Broad Institute

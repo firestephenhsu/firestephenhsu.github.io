@@ -6,13 +6,13 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **341** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
-
-[See another open letter from MSU faculty, currently signed by 243 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
+We currently have **358** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+*\* please note due to the volume of submissions we are unable to completely verify submissions. If your name has been falsely submitted please email president@geuatmsu.org*
+[See another open letter from MSU faculty, currently signed by 273 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 13, 8:10 AM EST_
+_Last Update: June 13, 5:39 PM EST_
 
 _For any corrections, please email organizing@geuatmsu.org_
 
@@ -91,6 +91,13 @@ Elliot Ryser | Professor | Food Science & Human Nutrition
 Piotr Piecuch | University Distinguished Professor, MSU Foundation Professor | Chemistry
 Jason Gallant | Assistant Professor | Integrative Biology
 Benjamin Levine | Associate Professor | Chemistry
+Melissa McDaniels | Senior Advisor to the Dean for Research Mentoring | Gradute School & Postdoc Office
+Anonymous | Assistant Professor |
+Anonymous | Assistant Professor | College of Education
+Beth Herbel-EIsenmann | Professor | Teacher Education
+Mary Tate Bremigan | | Fisheries and Wildlife
+Rowenn Kalman | Assistant Professor (NTF) | Anthropology
+Maite Tapia  | Assistant Professor | School of Human Resources and Labor Relations
 
 ### Postdoctoral Researchers
 
@@ -132,6 +139,7 @@ Dessie Clark | PhD | Office of Academic and Student Affairs, CANR
 Cheryl Leece | Academic Research Staff (Retired) | Human Medicine
 **Danny Jackson** | Research Assistant | Plant Biology
 Moriah Young | Research Assistant | Integrative Biology
+M. A. Cinelli, PhD | Senior Research Associate | Biochemistry
 
 ### Graduate Students
 
@@ -242,6 +250,12 @@ Sabrina Perlman | PhD Candidate | Anthropology
 Ying-Jen Lin | PhD Student | Anthropology
 Jack Stack | MS Student | Earth & Environmental Sciences
 Edward Glayzer | PhD Candidate | Anthropology
+Kyle Frost | PhD Candidate | Psychology
+Marcela Omans McKeeby | PhD Candidate | Anthropology
+Lissie Arndt | PhD Student
+Brian Samuel Geyer | PhD Candidate | Anthropology
+Nick Rowe | PhD Candidate | Economics
+
 
 ### Undergraduate Students
 
@@ -254,6 +268,7 @@ Jackie Brandonisio | Food Sciences
 Ally Brown |
 Joseph Deschaine | Mechanical Engineering
 Andrew Bracken | Residential College of Arts and Humanities
+**Ralph Arisania**
 
 ### Organizations
 
@@ -291,6 +306,10 @@ Daniel Parrell | PhD '19 |
 Emly Toppen | College of Arts & Letters |
 Joshua Pang | BA Finance, BS Actuarial Science |
 Elizabeth Abdnour | |
+**Kasey Pham** | PhD Student |
+Karin Rebnegger  | PhD | Anthropology
+Shaun Phillips ||
+Maria Raviele | PhD | Anthropology 
 
 ### Other Community Allies
 
@@ -379,3 +398,4 @@ Mai-Ly Tran | | University of Michigan
 Cameron Clarke | PhD Student | Stony Brook University, Department of Physics & Astronomy
 Anonymous | MD Student | Drexel University College of Medicine
 Leslie Abraham | MD Candidate |
+**William Shoemaker** | PhD | UCLA

@@ -6,16 +6,14 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **369** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
-*\* please note due to the volume of submissions we are unable to completely verify submissions. If your name has been falsely submitted please email president@geuatmsu.org*
+We currently have **374** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+*\* please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another open letter from MSU faculty, currently signed by 279 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
+[See another open letter from MSU faculty, currently signed by 296 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _If you are faculty, you are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
 
 # Signatures
 
-_Last Update: June 13, 11:44 PM EST_
-
-_For any corrections, please email organizing@geuatmsu.org_
+_Last Update: June 14, 4:50 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -101,6 +99,9 @@ Rowenn Kalman | Assistant Professor (NTF) | Anthropology
 Maite Tapia  | Assistant Professor | School of Human Resources and Labor Relations
 Vincent Melfi | Associate Professor | Statistics and Probability
 Adán Quan | | Anthropology
+Anonymous | Professor | Physics & Astronomy
+Elizabeth M. Gardener, PhD | | Food Science & Human Nutrition
+Kay Holekamp | University Distinguished Professor | Integrative Biology
 
 ### Postdoctoral Researchers
 
@@ -259,8 +260,9 @@ Marcela Omans McKeeby | PhD Candidate | Anthropology
 Lissie Arndt | PhD Student
 Brian Samuel Geyer | PhD Candidate | Anthropology
 Nick Rowe | PhD Candidate | Economics
-Janelle V. LeMon |MA
-AY Odedeyi | PhD student | Philosophy
+Janelle V. LeMon | MA |
+AY Odedeyi | PhD Student | Philosophy
+Andra Durham | PhD Student | Anthropology
 
 
 ### Undergraduate Students
@@ -321,8 +323,8 @@ Maria Raviele | PhD | Anthropology
 Rebecca Meuninck | PhD, Anthropology | Deputy Director, Ecology Center
 Laleah Fernandez | PhD
 Stephanie White | PhD
-Lesley Yates-Pollard |BA Anthropology 2006 |Current Graduate School staff- University of Oregon 
-
+Lesley Yates-Pollard | BA Anthropology '06 | currently Graduate School staff- University of Oregon 
+Lzz Johnk | | currently PhD Candidate, Oregon State University
 
 ### Other Community Allies
 
@@ -412,3 +414,4 @@ Cameron Clarke | PhD Student | Stony Brook University, Department of Physics & A
 Anonymous | MD Student | Drexel University College of Medicine
 Leslie Abraham | MD Candidate |
 **William Shoemaker** | PhD | UCLA
+

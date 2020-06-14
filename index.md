@@ -6,14 +6,14 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **358** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **369** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* please note due to the volume of submissions we are unable to completely verify submissions. If your name has been falsely submitted please email president@geuatmsu.org*
 
-[See another open letter from MSU faculty, currently signed by 273 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
+[See another open letter from MSU faculty, currently signed by 279 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit)
 
 # Signatures
 
-_Last Update: June 13, 5:39 PM EST_
+_Last Update: June 13, 11:44 PM EST_
 
 _For any corrections, please email organizing@geuatmsu.org_
 
@@ -99,6 +99,8 @@ Beth Herbel-EIsenmann | Professor | Teacher Education
 Mary Tate Bremigan | | Fisheries and Wildlife
 Rowenn Kalman | Assistant Professor (NTF) | Anthropology
 Maite Tapia  | Assistant Professor | School of Human Resources and Labor Relations
+Vincent Melfi | Associate Professor | Statistics and Probability
+Adán Quan | | Anthropology
 
 ### Postdoctoral Researchers
 
@@ -121,6 +123,7 @@ Monique Kelly, PhD | Sociology
 Nakia D Parker, PhD | History
 **Tasha Thompson, PhD** | Integrative Biology
 Dr. Norman Scheel, PhD | Radiology
+Sarah Doore, PhD | Biochemistry and Molecular Biology 
 
 ### Academic & Research Staff
 
@@ -256,6 +259,8 @@ Marcela Omans McKeeby | PhD Candidate | Anthropology
 Lissie Arndt | PhD Student
 Brian Samuel Geyer | PhD Candidate | Anthropology
 Nick Rowe | PhD Candidate | Economics
+Janelle V. LeMon |MA
+AY Odedeyi | PhD student | Philosophy
 
 
 ### Undergraduate Students
@@ -269,7 +274,9 @@ Jackie Brandonisio | Food Sciences
 Ally Brown |
 Joseph Deschaine | Mechanical Engineering
 Andrew Bracken | Residential College of Arts and Humanities
-**Ralph Arisania**
+**Ralph Arisania** |
+Jhovonne Fernandez | Media and Information
+Huda Warsame |
 
 ### Organizations
 
@@ -311,6 +318,11 @@ Elizabeth Abdnour | |
 Karin Rebnegger  | PhD | Anthropology
 Shaun Phillips ||
 Maria Raviele | PhD | Anthropology 
+Rebecca Meuninck | PhD, Anthropology | Deputy Director, Ecology Center
+Laleah Fernandez | PhD
+Stephanie White | PhD
+Lesley Yates-Pollard |BA Anthropology 2006 |Current Graduate School staff- University of Oregon 
+
 
 ### Other Community Allies
 

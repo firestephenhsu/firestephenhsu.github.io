@@ -296,9 +296,9 @@ The Evening Look | Student Publication
 
 ### Alumni
 
-Anya Vostinar | PhD 
-Tess Huelskamp | Computer Science '17
-Mackenzie Caple | PhD, Kellogg Biological Station
+Anya Vostinar | PhD |
+Tess Huelskamp | Computer Science '17|
+Mackenzie Caple | PhD |Kellogg Biological Station
 Megan Davis | Physics & Astronomy, BSc '19 | current PhD Student, University of Connecticut
 Nicole Strobel | Film & Media Studies | current PhD Candidate, UC Santa Barbara
 Acacia Costales | James Madison College |
@@ -422,4 +422,4 @@ Cameron Clarke | PhD Student | Stony Brook University, Department of Physics & A
 Anonymous | MD Student | Drexel University College of Medicine
 Leslie Abraham | MD Candidate |
 **William Shoemaker** | PhD | UCLA
-Ali | |
+Ali ||

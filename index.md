@@ -6,10 +6,10 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **383** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **417** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another open letter from MSU faculty, currently signed by 304 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _If you are faculty, you are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
+[See another open letter from MSU faculty, currently signed by 314 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _If you are faculty, you are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
 
 # Signatures
 
@@ -105,7 +105,9 @@ Kay Holekamp | University Distinguished Professor | Integrative Biology
 Peter Johnston | Academic Specialist | English
 Andrea Louie | Professor | Anthropology
 Yelena Kalinski | Assistant Professor - Fixed Term/Associate Director for Research & Publications | H-Net/Art, Art-History & Design
-
+Karen Kelly-Blake, PhD | | Center for Ethics and Humanities in the Life Sciences and Department of Medicine
+Scott Boehm | Assistant Professor | Romance & Classical Studies
+Janette W. Boughman | Professor | Integrative Biology
 
 ### Postdoctoral Researchers
 
@@ -129,6 +131,9 @@ Nakia D Parker, PhD | History
 **Tasha Thompson, PhD** | Integrative Biology
 Dr. Norman Scheel, PhD | Radiology
 Sarah Doore, PhD | Biochemistry and Molecular Biology 
+Sophie Picq |
+AL Carter, PhD | Kellogg Biological Station
+Sarah Crusser, PhD |
 
 ### Academic & Research Staff
 
@@ -149,6 +154,9 @@ Cheryl Leece | Academic Research Staff (Retired) | Human Medicine
 **Danny Jackson** | Research Assistant | Plant Biology
 Moriah Young | Research Assistant | Integrative Biology
 M. A. Cinelli, PhD | Senior Research Associate | Biochemistry
+R. Ulbrich | |
+Rachel Jansen
+**Charlene Tarsa**
 
 ### Graduate Students
 
@@ -269,7 +277,23 @@ AY Odedeyi | PhD Student | Philosophy
 Andra Durham | PhD Student | Anthropology
 Xandria R. Quichocho | PhD Student |
 Qin Shi Huang | PhD Student | Computer Science & Engineering
-
+Amber Bassett | | Plant, Soil & Microbial Sciences
+Nick | PhD Student | History
+Tayler Ulbrich | PhD Candidate | History
+John Vsetecka | PhD Candidate | History 
+**Abdullah Jabang** | PhD Candidate |
+Jenna Walters | MS | Entomology
+Corinn Rutkoski | PhD Student | Kellogg Biological Station
+Jenna Walters | MS | Entomology
+Matt Hill | | Department of Physics and Astronomy
+Alex Wright	| PhD Candidate	| Integrative Biology
+Taylor Rupp | PhD Candidate | Integrative Biology
+Tracy Montgomery | PhD Candidate | Integrative Biology
+Adam Kawash | PhD Candidate |
+Miles DeNudt |
+McKenzie Javorka | PhD Student | Ecological-Community Psychology
+Isaac Lartey | PhD Candidate |
+Kellie Walters | PhD Candidate | Horticulture
 
 ### Undergraduate Students
 
@@ -287,6 +311,9 @@ Jhovonne Fernandez | Media and Information
 Huda Warsame |
 Jenna Snider | Lyman Briggs
 Santiago Rodriguez-Papa | Engineering, Honors College
+Cooper Burton | James Madison
+Alex Grabowski |
+Ren Mueller |
 
 ### Organizations
 
@@ -334,6 +361,9 @@ Laleah Fernandez | PhD
 Stephanie White | PhD
 Lesley Yates-Pollard | BA Anthropology '06 | currently Graduate School staff- University of Oregon 
 Lzz Johnk | | currently PhD Candidate, Oregon State University
+Adam Mackey | Journalism '19 |
+Isaiah Hawkins |
+Mackenzie Mrla | Spartan Teacher |
 
 ### Other Community Allies
 
@@ -425,4 +455,5 @@ Anonymous | MD Student | Drexel University College of Medicine
 Leslie Abraham | MD Candidate |
 **William Shoemaker** | PhD | UCLA
 Ali ||
-
+Isabella dela Cruz | MS Physician Assistant | UDM
+Robert Hill, PhD | | Northwestern University

@@ -422,5 +422,4 @@ Cameron Clarke | PhD Student | Stony Brook University, Department of Physics & A
 Anonymous | MD Student | Drexel University College of Medicine
 Leslie Abraham | MD Candidate |
 **William Shoemaker** | PhD | UCLA
-Ali
-
+Ali | |

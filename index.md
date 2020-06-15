@@ -13,7 +13,7 @@ We currently have **417** signatures. **You can add your signature [here](https:
 
 # Signatures
 
-_Last Update: June 15, 9:15 AM EST_
+_Last Update: June 15, 12:35 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 

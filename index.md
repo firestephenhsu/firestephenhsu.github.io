@@ -6,14 +6,14 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **417** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **442** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another open letter from MSU faculty, currently signed by 314 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _If you are faculty, you are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
+[See another open letter from MSU faculty, currently signed by 330 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
 
 # Signatures
 
-_Last Update: June 15, 12:35 PM EST_
+_Last Update: June 15, 2:12 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -108,6 +108,12 @@ Yelena Kalinski | Assistant Professor - Fixed Term/Associate Director for Resear
 Karen Kelly-Blake, PhD | | Center for Ethics and Humanities in the Life Sciences and Department of Medicine
 Scott Boehm | Assistant Professor | Romance & Classical Studies
 Janette W. Boughman | Professor | Integrative Biology
+Cynthia L. Jordan, PhD | Professor | Neuroscience/College of Natural Sciences Faculty Excellence Advisor
+Eric Tans | Librarian | MSU Libraries
+Matthew J. Grieshop | Assistant Professor | Entomology
+Michael D. Gottfried | Associate Professor | Earth & Environmental Sciences
+Pamela C. Rasmussen, PhD | | Integrative Biology
+Scott Michaelsen | Professor |
 
 ### Postdoctoral Researchers
 
@@ -134,6 +140,7 @@ Sarah Doore, PhD | Biochemistry and Molecular Biology
 Sophie Picq |
 AL Carter, PhD | Kellogg Biological Station
 Sarah Crusser, PhD |
+Murielle Aalund, PhD | Integrative Biology
 
 ### Academic & Research Staff
 
@@ -294,6 +301,18 @@ Miles DeNudt |
 McKenzie Javorka | PhD Student | Ecological-Community Psychology
 Isaac Lartey | PhD Candidate |
 Kellie Walters | PhD Candidate | Horticulture
+Kenna D. S. Lehmann | PhD Candidate | Integrative Biology/Ecology, Evolutionary Biology, and Behavior
+Gabrielle DOminguez | PhD Student | Integrative Biology
+Lily Johnson-Ulrich, PhD | | 
+Alice Puchalsky | PhD Student | W. K. Kellogg Biological Station/Integrative Biology
+Meredith Zettlemoyer | PhD Candidate | Plant Biology/Kellogg Biological Station
+**Miranda Wade** | | Integrative Biology/Ecology, Evolutionary Biology, and Behavior
+Kota Nakasato | PhD Student |
+Christian Henry, PhD |
+Chad Papa | PhD Student | Forestry
+Kriti Seth | |
+Annika Kohler | MS Student | Horticulture
+Catherine Henry | PhD Candidate | Forestry
 
 ### Undergraduate Students
 
@@ -314,6 +333,7 @@ Santiago Rodriguez-Papa | Engineering, Honors College
 Cooper Burton | James Madison
 Alex Grabowski |
 Ren Mueller |
+Justin Fernando | 
 
 ### Organizations
 
@@ -364,6 +384,9 @@ Lzz Johnk | | currently PhD Candidate, Oregon State University
 Adam Mackey | Journalism '19 |
 Isaiah Hawkins |
 Mackenzie Mrla | Spartan Teacher |
+Claire Gonyo, PhD |
+Han Seitawan | | PhD Student
+Elizabeth Medlin | |
 
 ### Other Community Allies
 
@@ -457,3 +480,5 @@ Leslie Abraham | MD Candidate |
 Ali ||
 Isabella dela Cruz | MS Physician Assistant | UDM
 Robert Hill, PhD | | Northwestern University
+Elenna Capote | PhD Student |
+Denyz Melchor | PhD Student | UCLA Astronomy

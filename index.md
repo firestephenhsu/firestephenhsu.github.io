@@ -6,14 +6,14 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **374** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **383** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another open letter from MSU faculty, currently signed by 296 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _If you are faculty, you are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
+[See another open letter from MSU faculty, currently signed by 304 faculty, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _If you are faculty, you are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
 
 # Signatures
 
-_Last Update: June 14, 4:50 PM EST_
+_Last Update: June 15, 9:15 AM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -102,7 +102,9 @@ Adán Quan | | Anthropology
 Anonymous | Professor | Physics & Astronomy
 Elizabeth M. Gardener, PhD | | Food Science & Human Nutrition
 Kay Holekamp | University Distinguished Professor | Integrative Biology
-
+Peter Johnston | Academic Specialist | English
+Andrea Louie | Professor | Anthropology
+Yelena Kalinski | Assistant Professor - Fizxed Term/Associate Director for Research & Publications | H-Net/Art, Art-History & Design
 ### Postdoctoral Researchers
 
 Jackson Helms, PhD | Kellogg Biological Station
@@ -263,6 +265,8 @@ Nick Rowe | PhD Candidate | Economics
 Janelle V. LeMon | MA |
 AY Odedeyi | PhD Student | Philosophy
 Andra Durham | PhD Student | Anthropology
+Xandria R. Quichocho | PhD Student |
+Qin Shi Huang | PhD Student | Computer Science & Engineering
 
 
 ### Undergraduate Students
@@ -279,10 +283,13 @@ Andrew Bracken | Residential College of Arts and Humanities
 **Ralph Arisania** |
 Jhovonne Fernandez | Media and Information
 Huda Warsame |
+Jenna Snider | Lyman Briggs
+Santiago Rodriguez-Papa | Engineering, Honors College
 
 ### Organizations
 
-Graduate Employees Union
+Graduate Employees Union | AFT Local #6196
+The Evening Look | Student Publication
 
 ## Outside MSU
 
@@ -414,4 +421,5 @@ Cameron Clarke | PhD Student | Stony Brook University, Department of Physics & A
 Anonymous | MD Student | Drexel University College of Medicine
 Leslie Abraham | MD Candidate |
 **William Shoemaker** | PhD | UCLA
+Ali
 

@@ -6,14 +6,14 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **474** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **490** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another open letter started by MSU faculty, currently signed by 360 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
+[See another internal letter started by MSU faculty, currently signed by 378 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
 
 # Signatures
 
-_Last Update: June 15, 5:35 PM EST_
+_Last Update: June 15, 7:43 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -173,6 +173,8 @@ Angie Little, PhD | Senior Research Associate |
 Maya Wilson Brown | |
 Emily Burgess | | Kellogg Biological Station
 Erik Dams | Accountant & BA Finance '19 | Entomology
+Nicole Ellefson | Outreach Specialist|
+Sarah Eubanks | | Biosystems & Agricultural Engineering
 
 ### Graduate Students
 
@@ -332,6 +334,10 @@ Keenan Noyes | PhD Candidate | Chemistry
 Courtney Byrant | PhD Candidate | Psychology
 Jill Check | MS Student | Plant, Soil, and Microbial Sciences
 Nicholas Pigg | MD Student
+Andrew Paton-Glassbrook | PhD Student | Plant Soil and Microbial Sciences
+Shaylynn Crum |PhD Student|
+Ajay Somaraju | MS |
+Antoinette Shirley | PhD Student|
 
 ### Undergraduate Students
 
@@ -354,6 +360,11 @@ Alex Grabowski |
 Ren Mueller |
 Justin Fernando | 
 Minali Bhatt |
+Justin Grace | PhD Student | Physics and Astronomy
+Daniel Hoffman | MS Student | Department of Plant, Soil and Microbial Sciences
+Kyle Farris |PhD Student |Department of Educational Administration
+Erika LaPlante | MS Student | Plant Biology
+Olivia Jo Utley | PhD Candidate | Integrative Biology
 
 ### Organizations
 
@@ -415,6 +426,7 @@ CHad Zirbel, PhD | |
 Cathleen Fry, PhD | | currently Postdoc fellow at LANL
 Campbell Thompson | Communication Arts and Sciences |
 Alec Manaia | Sociology | 
+Jenna Pratt | M.Ed
 
 ### Other Community Allies
 
@@ -513,3 +525,8 @@ Denyz Melchor | PhD Student | UCLA Astronomy
 Kristen Connor | PhD Candidate | University of Michigan, Anthro-History
 **Lawrence H. Uricchio, PhD** | | University of California, Berkeley
 Jennifer Zanchez | Undergraduate in Physics | 
+**Jeremy J Berg, PhD** | University of Chicag| Department of Human Genetics
+Zack Furness, PhD ||
+Kayleigh Hood | PhD Candidate |IU Ecology Evolution and Behavior
+Samuel Rodriguez | MS Student | Physics
+

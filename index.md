@@ -155,8 +155,8 @@ Cheryl Leece | Academic Research Staff (Retired) | Human Medicine
 Moriah Young | Research Assistant | Integrative Biology
 M. A. Cinelli, PhD | Senior Research Associate | Biochemistry
 R. Ulbrich | |
-Rachel Jansen
-**Charlene Tarsa**
+Rachel Jansen |
+**Charlene Tarsa** |
 
 ### Graduate Students
 

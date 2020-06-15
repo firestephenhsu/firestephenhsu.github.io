@@ -6,7 +6,7 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **442** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **474** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
 [See another open letter started by MSU faculty, currently signed by 360 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
@@ -119,7 +119,7 @@ Gene Burns | Professor | James Madison College
 Barbara Lundrigan, PhD | | Integrative Biology
 Ronald F. Cichy, PhD | Professor Emeritus | 
 Muraleedharan Nair | Professor | Horticulure
-Jeremy Prokop, PhD | | Pediatrics & Human Development
+**Jeremy Prokop, PhD** | | Pediatrics & Human Development
 
 ### Postdoctoral Researchers
 
@@ -512,5 +512,5 @@ Robert Hill, PhD | | Northwestern University
 Elenna Capote | PhD Student |
 Denyz Melchor | PhD Student | UCLA Astronomy
 Kristen Connor | PhD Candidate | University of Michigan, Anthro-History
-Lawrence H. Uricchio, PhD | | University of California, Berkeley
+**Lawrence H. Uricchio, PhD** | | University of California, Berkeley
 Jennifer Zanchez | Undergraduate in Physics | 

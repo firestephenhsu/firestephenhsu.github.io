@@ -191,7 +191,7 @@ Brandon Johnson | PhD Student | Neuroscience
 KBS | PhD Candidate |
 Jeffrey Davis | PhD Student | Philosophy
 Jack O'Brien | |
-Isabela Molina | PhD Student | Physics & Astronomy
+Isabella Molina | PhD Student | Physics & Astronomy
 Jeremy Neefus | PhD Candidate | Philosophy
 Kevin McCormick | PhD Candidate | Integrative Biology
 **Kyle Jaynes** | PhD Student | Integrative Biology

@@ -106,6 +106,7 @@ Peter Johnston | Academic Specialist | English
 Andrea Louie | Professor | Anthropology
 Yelena Kalinski | Assistant Professor - Fizxed Term/Associate Director for Research & Publications | H-Net/Art, Art-History & Design
 
+
 ### Postdoctoral Researchers
 
 Jackson Helms, PhD | Kellogg Biological Station
@@ -336,6 +337,7 @@ Lzz Johnk | | currently PhD Candidate, Oregon State University
 
 ### Other Community Allies
 
+
 Olivia Borghi | PhD Student | University of Washington Department of Mathematics
 Dema K. | PhD Student |
 Chris Peritore-Galve | PhD |
@@ -423,3 +425,4 @@ Anonymous | MD Student | Drexel University College of Medicine
 Leslie Abraham | MD Candidate |
 **William Shoemaker** | PhD | UCLA
 Ali ||
+

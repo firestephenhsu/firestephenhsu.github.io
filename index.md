@@ -117,7 +117,6 @@ Scott Michaelsen | Professor |
 Dr. FSH | |
 Gene Burns | Professor | James Madison College
 Barbara Lundrigan, PhD | | Integrative Biology
-Ronald F. Cichy, PhD | Professor Emeritus | 
 Muraleedharan Nair | Professor | Horticulure
 **Jeremy Prokop, PhD** | | Pediatrics & Human Development
 

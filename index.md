@@ -9,11 +9,11 @@ By signing this open letter we ask MSU to follow through to its commitment to be
 We currently have **442** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another open letter started by MSU faculty, currently signed by 330 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
+[See another open letter started by MSU faculty, currently signed by 360 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
 
 # Signatures
 
-_Last Update: June 15, 2:12 PM EST_
+_Last Update: June 15, 5:35 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -114,6 +114,12 @@ Matthew J. Grieshop | Assistant Professor | Entomology
 Michael D. Gottfried | Associate Professor | Earth & Environmental Sciences
 Pamela C. Rasmussen, PhD | | Integrative Biology
 Scott Michaelsen | Professor |
+Dr. FSH | |
+Gene Burns | Professor | James Madison College
+Barbara Lundrigan, PhD | | Integrative Biology
+Ronald F. Cichy, PhD | Professor Emeritus | 
+Muraleedharan Nair | Professor | Horticulure
+Jeremy Prokop, PhD | | Pediatrics & Human Development
 
 ### Postdoctoral Researchers
 
@@ -164,6 +170,10 @@ M. A. Cinelli, PhD | Senior Research Associate | Biochemistry
 R. Ulbrich | |
 Rachel Jansen |
 **Charlene Tarsa** |
+Angie Little, PhD | Senior Research Associate |
+Maya Wilson Brown | |
+Emily Burgess | | Kellogg Biological Station
+Erik Dams | Accountant & BA Finance '19 | Entomology
 
 ### Graduate Students
 
@@ -313,6 +323,16 @@ Chad Papa | PhD Student | Forestry
 Kriti Seth | |
 Annika Kohler | MS Student | Horticulture
 Catherine Henry | PhD Candidate | Forestry
+Joe Karisny | PhD Student | History
+Douglas Kirkpatrick | PhD Candidate | Computer Science & Engineering
+Megan Machusko | MS Student | Forestry
+Clare Carlson | PhD Student
+Brit | Graduate Student | Chemistry
+Robert Kincaid Crigler | PhD Candidate | History
+Keenan Noyes | PhD Candidate | Chemistry
+Courtney Byrant | PhD Candidate | Psychology
+Jill Check | MS Student | Plant, Soil, and Microbial Sciences
+Nicholas Pigg | MD Student
 
 ### Undergraduate Students
 
@@ -334,6 +354,7 @@ Cooper Burton | James Madison
 Alex Grabowski |
 Ren Mueller |
 Justin Fernando | 
+Minali Bhatt |
 
 ### Organizations
 
@@ -387,6 +408,14 @@ Mackenzie Mrla | Spartan Teacher |
 Claire Gonyo, PhD |
 Han Seitawan | | PhD Student
 Elizabeth Medlin | |
+Natasha Dirckson | |
+Ryan Knott | |
+Margaret Rowley | MA/MM | currently Phd Candidate at Boston University
+Emily Toppen | College of Arts and Letters |
+CHad Zirbel, PhD | | 
+Cathleen Fry, PhD | | currently Postdoc fellow at LANL
+Campbell Thompson | Communication Arts and Sciences |
+Alec Manaia | Sociology | 
 
 ### Other Community Allies
 
@@ -482,3 +511,6 @@ Isabella dela Cruz | MS Physician Assistant | UDM
 Robert Hill, PhD | | Northwestern University
 Elenna Capote | PhD Student |
 Denyz Melchor | PhD Student | UCLA Astronomy
+Kristen Connor | PhD Candidate | University of Michigan, Anthro-History
+Lawrence H. Uricchio, PhD | | University of California, Berkeley
+Jennifer Zanchez | Undergraduate in Physics | 

@@ -105,6 +105,7 @@ Kay Holekamp | University Distinguished Professor | Integrative Biology
 Peter Johnston | Academic Specialist | English
 Andrea Louie | Professor | Anthropology
 Yelena Kalinski | Assistant Professor - Fizxed Term/Associate Director for Research & Publications | H-Net/Art, Art-History & Design
+
 ### Postdoctoral Researchers
 
 Jackson Helms, PhD | Kellogg Biological Station

@@ -104,7 +104,7 @@ Elizabeth M. Gardener, PhD | | Food Science & Human Nutrition
 Kay Holekamp | University Distinguished Professor | Integrative Biology
 Peter Johnston | Academic Specialist | English
 Andrea Louie | Professor | Anthropology
-Yelena Kalinski | Assistant Professor - Fizxed Term/Associate Director for Research & Publications | H-Net/Art, Art-History & Design
+Yelena Kalinski | Assistant Professor - Fixed Term/Associate Director for Research & Publications | H-Net/Art, Art-History & Design
 
 
 ### Postdoctoral Researchers

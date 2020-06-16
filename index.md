@@ -525,7 +525,7 @@ Denyz Melchor | PhD Student | UCLA Astronomy
 Kristen Connor | PhD Candidate | University of Michigan, Anthro-History
 **Lawrence H. Uricchio, PhD** | | University of California, Berkeley
 Jennifer Zanchez | Undergraduate in Physics | 
-**Jeremy J Berg, PhD** | University of Chicag| Department of Human Genetics
+**Jeremy J Berg, PhD** | University of Chicago| Department of Human Genetics
 Zack Furness, PhD ||
 Kayleigh Hood | PhD Candidate |IU Ecology Evolution and Behavior
 Samuel Rodriguez | MS Student | Physics

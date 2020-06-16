@@ -6,14 +6,14 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **503** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **513** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another internal letter started by MSU faculty, currently signed by 390 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
+[See another internal letter started by MSU faculty, currently signed by 396 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
 # Signatures
 
-_Last Update: June 15, 10:41 PM EST_
+_Last Update: June 16, 8:17 AM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -121,6 +121,9 @@ Muraleedharan Nair | Professor | Horticulure
 **Jeremy Prokop, PhD** | | Pediatrics & Human Development
 Jay Zarnetske | Assistant Professor | Earth & Environmental Sciences
 Charles Ofria | Professor | Computer Science & Engineering
+Phoebe Zarnetske | Assistant Professor | Integrative Biology
+Seth Jacobson | Assistant Professor | Earth & Environmental Sciences
+Anonymouse | Assistant Professor
 
 ### Postdoctoral Researchers
 
@@ -349,8 +352,11 @@ Olivia Jo Utley | PhD Candidate | Integrative Biology
 Kathleen Rhoades | PhD Student |
 Eric Stalknecht | PhD Student | Horticulture
 Allie Watson | MS Student |
-Anonymouse | MD Candidate |
+Anonymous | MD Candidate |
 Nicole Wonderlin | PhD Candidate | Entomology
+**Alan E. Yocca** | PhD Candidate | Plant Biology
+Alyssa Wolfe | PhD Student | Second Language Studies
+Erika Vallejo | PhD Student |
 
 ### Undergraduate Students
 
@@ -439,6 +445,8 @@ Campbell Thompson | Communication Arts and Sciences |
 Alec Manaia | Sociology | 
 Jenna Pratt | M.Ed
 Piet Braun | BA, Media & Information |
+Charles Loelius | PhD Physics, 2014-2017 Vice President/Treasurer, GEU |
+Isabela Kadar
 
 ### Other Community Allies
 
@@ -542,3 +550,5 @@ Zack Furness, PhD ||
 Kayleigh Hood | PhD Candidate |IU Ecology Evolution and Behavior
 Samuel Rodriguez | MS Student | Physics
 Page Welsh | Dual English MA/MFA Candidate | Chapman University
+Lauren Gillespie | PhD Student | Stanford University
+Emma Whittington, PhD |

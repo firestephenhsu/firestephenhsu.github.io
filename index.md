@@ -446,7 +446,7 @@ Alec Manaia | Sociology |
 Jenna Pratt | M.Ed
 Piet Braun | BA, Media & Information |
 Charles Loelius | PhD Physics, 2014-2017 Vice President/Treasurer, GEU |
-Isabela Kadar
+Isabela Kadar | |
 
 ### Other Community Allies
 

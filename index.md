@@ -6,10 +6,10 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **517** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **524** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another internal letter started by MSU faculty, currently signed by 398 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
+[See another internal letter started by MSU faculty, currently signed by 407 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
 # Signatures
 
@@ -125,6 +125,10 @@ Phoebe Zarnetske | Assistant Professor | Integrative Biology
 Seth Jacobson | Assistant Professor | Earth & Environmental Sciences
 Anonymous | Assistant Professor
 Pamela Ruegg | Professor and Chair | Animal Science
+Julius H Jackson | Professor Emeritus;  Assoc. Dean Emeritus | Microbiology & Molecular Genetics; The Graduate School
+Dar Meshi | Assistant Professor | Department of Advertising and Public Relations
+William C. Wetzel | Assistant Professor | Department of Entomology
+Mariah Meek | Assistant Professor | Integrative Biology
 
 ### Postdoctoral Researchers
 
@@ -362,6 +366,7 @@ Erika Vallejo | PhD Student |
 Mayson Whipple | |
 Jen Zavalnitskaya | MS Student |
 Caitlin Barker | PhD Student | History
+Sara Grady | PhD student | Communication
 
 ### Undergraduate Students
 
@@ -387,6 +392,7 @@ Minali Bhatt |
 Reid Eliefson-Frank |
 Isabella Allen |
 Gabi Meitler | Lyman Briggs
+Isabella Kercorian 
 
 ### Organizations
 
@@ -452,6 +458,7 @@ Jenna Pratt | M.Ed
 Piet Braun | BA, Media & Information |
 Charles Loelius | PhD Physics, 2014-2017 Vice President/Treasurer, GEU |
 Isabela Kadar | |
+Michelle Rozwadowski | B.S. Neuroscience '18 |
 
 ### Other Community Allies
 

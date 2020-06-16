@@ -314,7 +314,6 @@ John Vsetecka | PhD Candidate | History
 **Abdullah Jabang** | PhD Candidate |
 Jenna Walters | MS | Entomology
 Corinn Rutkoski | PhD Student | Kellogg Biological Station
-Jenna Walters | MS | Entomology
 Matt Hill | | Department of Physics and Astronomy
 Alex Wright	| PhD Candidate	| Integrative Biology
 Taylor Rupp | PhD Candidate | Integrative Biology
@@ -563,4 +562,4 @@ Kayleigh Hood | PhD Candidate |IU Ecology Evolution and Behavior
 Samuel Rodriguez | MS Student | Physics
 Page Welsh | Dual English MA/MFA Candidate | Chapman University
 Lauren Gillespie | PhD Student | Stanford University
-Emma Whittington, PhD |
+Emma Whittington, PhD ||

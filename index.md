@@ -6,10 +6,10 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **490** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
-*\* please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
+We currently have **502** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+*\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another internal letter started by MSU faculty, currently signed by 378 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
+[See another internal letter started by MSU faculty, currently signed by 388 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution._
 
 # Signatures
 
@@ -119,6 +119,7 @@ Gene Burns | Professor | James Madison College
 Barbara Lundrigan, PhD | | Integrative Biology
 Muraleedharan Nair | Professor | Horticulure
 **Jeremy Prokop, PhD** | | Pediatrics & Human Development
+Jay Zarnetske | Assistant Professor | Earth & Environmental Sciences
 
 ### Postdoctoral Researchers
 
@@ -175,6 +176,7 @@ Emily Burgess | | Kellogg Biological Station
 Erik Dams | Accountant & BA Finance '19 | Entomology
 Nicole Ellefson | Outreach Specialist|
 Sarah Eubanks | | Biosystems & Agricultural Engineering
+Becky Matz, PhD | | Hub for Innovation in Learning & Technology
 
 ### Graduate Students
 
@@ -338,6 +340,16 @@ Andrew Paton-Glassbrook | PhD Student | Plant Soil and Microbial Sciences
 Shaylynn Crum |PhD Student|
 Ajay Somaraju | MS |
 Antoinette Shirley | PhD Student|
+Justin Grace | PhD Student | Physics and Astronomy
+Daniel Hoffman | MS Student | Department of Plant, Soil and Microbial Sciences
+Kyle Farris |PhD Student |Department of Educational Administration
+Erika LaPlante | MS Student | Plant Biology
+Olivia Jo Utley | PhD Candidate | Integrative Biology
+Kathleen Rhoades | PhD Student |
+Eric Stalknecht | PhD Student | Horticulture
+Allie Watson | MS Student |
+Anonymouse | MD Candidate |
+Nicole Wonderlin | PhD Candidate | Entomology
 
 ### Undergraduate Students
 
@@ -360,11 +372,9 @@ Alex Grabowski |
 Ren Mueller |
 Justin Fernando | 
 Minali Bhatt |
-Justin Grace | PhD Student | Physics and Astronomy
-Daniel Hoffman | MS Student | Department of Plant, Soil and Microbial Sciences
-Kyle Farris |PhD Student |Department of Educational Administration
-Erika LaPlante | MS Student | Plant Biology
-Olivia Jo Utley | PhD Candidate | Integrative Biology
+Reid Eliefson-Frank |
+Isabella Allen |
+Gabi Meitler | Lyman Briggs
 
 ### Organizations
 
@@ -427,6 +437,7 @@ Cathleen Fry, PhD | | currently Postdoc fellow at LANL
 Campbell Thompson | Communication Arts and Sciences |
 Alec Manaia | Sociology | 
 Jenna Pratt | M.Ed
+Piet Braun | BA, Media & Information |
 
 ### Other Community Allies
 
@@ -529,4 +540,4 @@ Jennifer Zanchez | Undergraduate in Physics |
 Zack Furness, PhD ||
 Kayleigh Hood | PhD Candidate |IU Ecology Evolution and Behavior
 Samuel Rodriguez | MS Student | Physics
-
+Page Welsh | Dual English MA/MFA Candidate | Chapman University

@@ -392,7 +392,7 @@ Minali Bhatt |
 Reid Eliefson-Frank |
 Isabella Allen |
 Gabi Meitler | Lyman Briggs
-Isabella Kercorian 
+Isabella Kercorian |
 
 ### Organizations
 

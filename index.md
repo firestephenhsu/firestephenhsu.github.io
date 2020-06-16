@@ -6,14 +6,14 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **524** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **554** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
 [See another internal letter started by MSU faculty, currently signed by 407 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
 # Signatures
 
-_Last Update: June 16, 8:58 AM EST_
+_Last Update: June 16, 6:56 AM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -129,6 +129,13 @@ Julius H Jackson | Professor Emeritus;  Assoc. Dean Emeritus | Microbiology & Mo
 Dar Meshi | Assistant Professor | Department of Advertising and Public Relations
 William C. Wetzel | Assistant Professor | Department of Entomology
 Mariah Meek | Assistant Professor | Integrative Biology
+Steven Stowe,PhD | |
+Nathaniel E. Ostrom | Professor | Integrative Biology
+Sharon L Hoerr, RDN, PhD, FACN | Professor emerita | Dept Food Science and Human Nutrition
+Susan J. Masten | Professor | Civil and Environmental Engineering
+Bree Holtz, PhD | | Advertising and Public Relations
+Sean Weise | Assistant Professor | Biochemistry & Molecular Biology
+
 
 ### Postdoctoral Researchers
 
@@ -156,7 +163,12 @@ Sophie Picq |
 AL Carter, PhD | Kellogg Biological Station
 Sarah Crusser, PhD |
 Murielle Aalund, PhD | Integrative Biology
-
+**David Luecke, PhD** |
+Andrew W. Thompson, PhD | Integrative Biology
+Ben Stein| 
+Andrea Glassmire, PhD | Entomology
+Luciano Silvestri, PhD | CMSE
+María Paola Puggioni, PhD | PRL
 ### Academic & Research Staff
 
 Erica Fischer, MS | |
@@ -186,6 +198,8 @@ Erik Dams | Accountant & BA Finance '19 | Entomology
 Nicole Ellefson | Outreach Specialist|
 Sarah Eubanks | | Biosystems & Agricultural Engineering
 Becky Matz, PhD | | Hub for Innovation in Learning & Technology
+Camilla Peabody | Research Technician | Integrative Biology
+Daniel Pfau, PhD | NatSci DEI Training Facilitator |
 
 ### Graduate Students
 
@@ -366,6 +380,12 @@ Mayson Whipple | |
 Jen Zavalnitskaya | MS Student |
 Caitlin Barker | PhD Student | History
 Sara Grady | PhD student | Communication
+Benjamin Akey | PhD Student| Anthropology
+Luke Gregory | PhD Student | Plant Biology
+Michael Ryskamp | PhD Student | Plant Biology
+Jocelyn Alisa Dana-Le | Graduate Assistant | Eli Broad College of Business
+Samantha Bowden | MS Student|
+Danielle Young | PhD Candidate | Plant Biologu
 
 ### Undergraduate Students
 
@@ -458,6 +478,9 @@ Piet Braun | BA, Media & Information |
 Charles Loelius | PhD Physics, 2014-2017 Vice President/Treasurer, GEU |
 Isabela Kadar | |
 Michelle Rozwadowski | B.S. Neuroscience '18 |
+Sandi Clement | PhD Microbiology & Molecular Genetics |
+Anna C. | BS | Lymans Briggs
+Joban singh ||
 
 ### Other Community Allies
 
@@ -563,3 +586,9 @@ Samuel Rodriguez | MS Student | Physics
 Page Welsh | Dual English MA/MFA Candidate | Chapman University
 Lauren Gillespie | PhD Student | Stanford University
 Emma Whittington, PhD ||
+Jerushah Gracey | MS Student |
+Davis Weaver | MD/PhD Candidate | Case Western Reserve University School of Medicine
+Paige ||
+**Nancy Chen, Ph.D.** |Assistant Professor |	University of Rochester
+Emily D Armbruster,PhD | |CUNY Advanced Science Research Center 
+Stephanie Yuan | Undergraduate | University of Florida

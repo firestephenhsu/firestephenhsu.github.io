@@ -509,12 +509,13 @@ Margo Susnjar (Cotter)	|Librarian
 Calli O'Keefe	| BSN, RN |
 Shannon Norris 	| M.A. Ed|
 Elizabeth Gensterblum-Miller	| PhD Candidate	| University of Michigan
-Julie Gensterblum |
+Julie Gensterblum | |
 Sarah Hession| 	PhD	| Previously Associate Statistician, CSTAT, VPRI
 Logan Lindsay	| Management Consultant |	MSU alumni
 L Tolsma ||
 Robin Eley ||
 Casey terHorst	| Assoc. Prof., Cal State Northridge	|former MSU post-doc
+
 ### Other Community Allies
 
 

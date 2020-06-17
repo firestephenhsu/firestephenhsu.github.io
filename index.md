@@ -6,14 +6,14 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **554** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **618** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another internal letter started by MSU faculty, currently signed by 449 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
+[See another internal letter started by MSU faculty, currently signed by 483 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
 # Signatures
 
-_Last Update: June 16, 7:29 PM EST_
+_Last Update: June 17, 2:55 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -135,6 +135,9 @@ Sharon L Hoerr, RDN, PhD, FACN | Professor emerita | Dept Food Science and Human
 Susan J. Masten | Professor | Civil and Environmental Engineering
 Bree Holtz, PhD | | Advertising and Public Relations
 Sean Weise | Assistant Professor | Biochemistry & Molecular Biology
+Allison Eden	| Associate Professor	| Department of Communication
+Kathleen Foley	| Assistant Professor 	| Biochemistry and Molecular Biology
+**Fredric Janzen**|	Professor and Director|	Kellogg Biological Station
 
 
 ### Postdoctoral Researchers
@@ -169,6 +172,7 @@ Ben Stein|
 Andrea Glassmire, PhD | Entomology
 Luciano Silvestri, PhD | CMSE
 María Paola Puggioni, PhD | PRL
+
 ### Academic & Research Staff
 
 Erica Fischer, MS | |
@@ -200,6 +204,9 @@ Sarah Eubanks | | Biosystems & Agricultural Engineering
 Becky Matz, PhD | | Hub for Innovation in Learning & Technology
 Camilla Peabody | Research Technician | Integrative Biology
 Daniel Pfau, PhD | NatSci DEI Training Facilitator |
+Nicole Ellefson 	|Outreach Specialist|
+Skylar DeWitt |	Research Assistant |	Psychology
+Jonathan Walkotten	| Research Assistant |	MSU Center for Community and Economic Development
 
 ### Graduate Students
 
@@ -385,7 +392,17 @@ Luke Gregory | PhD Student | Plant Biology
 Michael Ryskamp | PhD Student | Plant Biology
 Jocelyn Alisa Dana-Le | Graduate Assistant | Eli Broad College of Business
 Samantha Bowden | MS Student|
-Danielle Young | PhD Candidate | Plant Biologu
+Danielle Young | PhD Candidate | Plant Biology
+Allison Young | PhD Candidate | Integrative Biology
+Lauren Collier-Spruel | PhD Candidate | Psychology
+Jennifer K. Allen, MSW |	PhD Student	| School of Social Work
+Grant Gliniecki|	PhD Student|
+Olivia Spagnuolo	|PhD Candidate	| Integrative Biology and Ecology, Evolutionary Biology, and Behavior
+Shaylynn Miller |	PhD student |
+**Ali Soltani**|	PhD	| Plant Biology
+Joshua Kaste |	PhD Student	| Biochemistry and Molecular Biology
+Bethany Meadows	| PhD student	| Writing, Rhetoric, and American Culture
+Anonymous Graduate Student	| PhD Student	| Psychology
 
 ### Undergraduate Students
 
@@ -412,6 +429,9 @@ Reid Eliefson-Frank |
 Isabella Allen |
 Gabi Meitler | Lyman Briggs
 Isabella Kercorian |
+Madeline Henneman |
+Hannah Carbar|
+AD|
 
 ### Organizations
 
@@ -481,7 +501,20 @@ Michelle Rozwadowski | B.S. Neuroscience '18 |
 Sandi Clement | PhD Microbiology & Molecular Genetics |
 Anna C. | BS | Lymans Briggs
 Joban singh ||
-
+Kathy Chen | PhD
+Melissa S. | Research Aide | Institute for Quantitative Health, BME department
+Joshua Isaacson | PhD | Physics and Astronomy
+Jeff Johnson | |James Madison College and College of Social Science
+Margo Susnjar (Cotter)	|Librarian
+Calli O'Keefe	| BSN, RN |
+Shannon Norris 	| M.A. Ed|
+Elizabeth Gensterblum-Miller	| PhD Candidate	| University of Michigan
+Julie Gensterblum |
+Sarah Hession| 	PhD	| Previously Associate Statistician, CSTAT, VPRI
+Logan Lindsay	| Management Consultant |	MSU alumni
+L Tolsma ||
+Robin Eley ||
+Casey terHorst	| Assoc. Prof., Cal State Northridge	|former MSU post-doc
 ### Other Community Allies
 
 
@@ -592,3 +625,34 @@ Paige ||
 **Nancy Chen, Ph.D.** |Assistant Professor |	University of Rochester
 Emily D Armbruster,PhD | |CUNY Advanced Science Research Center 
 Stephanie Yuan | Undergraduate | University of Florida
+Pete Shanks | Writer |
+Megan Dean | PhD | Philosophy (Bioethics)
+Jordan Hoffman ||
+Daniel Dana-Le | | Grand Ledge Public Schools
+David desJardins	|PhD|
+Lindsay Hendrickson	|Student of Physical Therapy|	University of California, San Francisco
+Deni Malone ||
+J. Djugashvili	| MA |
+Michael D. Mouse	| B.Sc M.Comm |
+Lizzy Trower	| Assistant Professor
+Serena Eley	| Assistant Professor of Physics |	Colorado School of Mines
+Haley Yaremych	| PhD Student	| Vanderbilt University
+Kimberly Eley ||
+Ari Ne'eman |	PhD Student (Health Policy)	| Harvard University
+Joann Maldonado Torres ||
+Erin Drabicki | | UofM Alum
+Abby Manning	| Registered Nurse	| UofM Alum
+Linda K. Cromwell ||
+Radolphis Bonnette 	||	
+Anusha Sinha  |	MS Student	| Carnegie Mellon University
+Joanna Koch ||
+Eric Anderson	| PhD|
+Galen Martin	|PhD Student	| UCI Ecology & Evolutionary Bio
+Jasmine Sears	|PhD	| Optical Science
+Jessica Slater	|PhD|
+Lauren Lees	| PhD Student |
+Brooke ||
+Daniela Bonafede-Chhabra	|PhD |
+Lars Kuhn	|PhD |
+P Webb	|M Ed |	
+Ben Kolb	|PhD student| 	Department of Anthropology, Binghamton University

@@ -11,6 +11,8 @@ We currently have **618** signatures. **You can add your signature [here](https:
 
 [See another internal letter started by MSU faculty, currently signed by 483 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
+_Signatories of this letter agree also not to interfere with or harass any counter-petitions which arise. We condemn such measures and will follow up on any reports that our supporters are engaging in any such behavior._
+
 # Signatures
 
 _Last Update: June 17, 2:55 PM EST_

@@ -667,7 +667,6 @@ Molly Green | PhD Candidate | UNC-Chapel Hill Department of Anthropology
 **Jedidiah Carlson** | Postdoctoral Researcher | University of Washington
 Nancy Dordal | JD Candidate | University of Maryland Baltimore
 Erin Moran ||
-Adán Quan | PhD |
 Jake Weissman | Postdoctoral Scholar | Biology, USC
 **Brandon S. Cooper** | Assistant Professor | University of Montana
 Viktorya | |

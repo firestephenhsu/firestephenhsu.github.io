@@ -300,7 +300,6 @@ Alexandria Kuhl | PhD Candidate | Earth and Environmental Sciences
 **Ava Garrison** | PhD Candidate | Plant Biology
 Vincent Ragusa | PhD Student | Computer Science & Engineering 
 Evan Brenner | PhD Student | Comparative Medicine & Integrative Biology
-Olivia Fitch | PhD Student | Integrative Biology
 ALH | PhD Candidate |
 Patrick Abell | | Horticulture
 Laura Castro | PhD Student |

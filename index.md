@@ -6,16 +6,16 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **697** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **740** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another internal letter started by MSU faculty, currently signed by 505 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
+[See another internal letter started by MSU faculty, currently signed by 512 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
 _Signatories of this letter agree also not to interfere with or harass any counter-petitions which arise. We condemn such measures and will follow up on any reports that our supporters are engaging in any such behavior._
 
 # Signatures
 
-_Last Update: June 17, 11:05 PM EST_
+_Last Update: June 18, 11:37 AM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -144,6 +144,7 @@ Ashton Shortridge, PhD | | Geography, ENvironment, & Spatial Sciences
 Eric Torng | Associate Professor/Associate Dean | Computer Science & Engineering/The Graduate School
 Catherine Ernst | Professor | Animal Science
 Eric Aronoff | Associate Professor
+**Emily Josephs**	|Assistant Professor|	Plant Biology
 
 ### Postdoctoral Researchers
 
@@ -178,6 +179,7 @@ Andrea Glassmire, PhD | Entomology
 Luciano Silvestri, PhD | CMSE
 María Paola Puggioni, PhD | PRL
 Erin Zylstra, PhD | Integrative Biology
+
 
 ### Academic & Research Staff
 
@@ -214,6 +216,7 @@ Nicole Ellefson 	|Outreach Specialist|
 Skylar DeWitt |	Research Assistant |	Psychology
 Jonathan Walkotten	| Research Assistant |	MSU Center for Community and Economic Development
 Carolyn Graham | Lab Technician | Plant Biology
+Danielle J. Whittaker,	Ph.D.	||BEACON Center & Integrative Biology
 
 ### Graduate Students
 
@@ -456,7 +459,30 @@ Samantha Westcott	| PhD Student
 Madeline Nash	| PhD Student | Sociology
 Kyle Card	 | PhD Candidate | Microbiology & Molecular Genetics
 Anonymous PhD Candidate |	PhD Candidate 	
-Funmi Ayeni	| PhD Student	
+Funmi Ayeni	| PhD Student	|
+Taylor Mills |	PhD Student
+Jennifer Lai	|PhD Candidate|	Sociology
+Jihan Mohammed	|PhD Candidate	|
+Laura Twardochleb|	PhD Candidate	|Fisheries and Wildlife
+Rachel Domagalski |	PhD Candidate	|Department of Mathematics
+Vanessa Maldonado	|PhD Student	|Chemical Engineering and Material Science
+Aaron Woodman	|DMA Student|	
+Kahlia Roberts	|PhD Student|	Philosophy
+Aksheya Sridhar	|Graduate Student|	Psychology
+Sara Tahir	|PhD student|	
+Abi Buchanan	|PhD student	|
+Christine P Bennett	|PhD Candidate|	English Department
+David M. Bowers	| PhD Candidate	| Program in Mathematics Education
+Kakia Gkoudina	|Ph. D Student	|
+Ti'Air Riggins|	PhD Candidate	Biomedical Engineering|
+Stephie Kang	| PhD Student	| Writing, Rhetoric, and American Cultures
+Paul Fiesel	| PhD Candidate|	Biochemistry and Molecular Biology
+Tasha Williams 	|PhD Candidate|
+Anonymous 	| PhD Candidate	| Teacher Education
+Ezgi Karaoglu	|PhD Student	|Sociology
+Kara Dobson|	PhD Student|	Integrative Biology
+
+
 
 ### Undergraduate Students
 
@@ -493,6 +519,7 @@ Abi Otwell |
 
 Graduate Employees Union | AFT Local #6196
 The Evening Look | Student Publication
+EEBB Graduate Group | Graduate Student Organization
 
 ## Outside MSU
 
@@ -581,6 +608,12 @@ Elyse Gambino | MFA '17, Art, Art History & Design |
 Rhyomi Sellnow | PhD, Cell and Molecular Biology |
 Laura Kirby | PhD
 Andrew Schmidt | MS, Engineering
+Chitrak B	| PhD student
+Srijan Datta	| PhD Student
+Joseph Lee-Cullin,PhD | Albion College
+Elizabeth Pellerito,	PhD|	Director, Labor Education Program| UMass Lowell
+Jill E. Kelly	PhD |MSU, 2012
+Matt Kolp,	PhD| 	Formerly EEBB and Plant Biology
 
 ### Other Community Allies
 
@@ -735,3 +768,18 @@ Aaron Norton | PhD | California Institute of Integral Studies
 Zachary Caple | PhD | University of South Florida
 Radolphis Bonnette |
 Emily Ladi | MS Student | Biology, Cal State University Northridge
+Matias Kaplan	 |PhD Candidate 	|Stanford Bioengineering 
+John Connolly|	PhD Student	Albert |Einstein College of Medicine
+Matthew Carr|	PhD Student|	Ohio State University
+E. N. Whitson	|PhD candidate|	Binghamton University, Department of Anthropology
+Maxwell M. Forton	|PhD Student	| Binghamton University, Department of Anthropology
+Mohi Kumar |	MS, MA	|
+Solomon Stavrov,	PhD| 	Tel Aviv University |
+Tali Faris-Hylen||
+Megan Dean,PhD|	|Philosophy (Bioethics) 
+Aaron Dockser||
+Mardez Wheatley||
+Ariel Parker	|PhD Candidate|
+Kaleb Johnston	||	
+**Leslie Turner,PhD**	|Milner Centre for Evolution| University of Bath
+Maria Salinas||

@@ -58,7 +58,6 @@ Robert VanBuren | Assistant Professor | Horticulture
 Lars Brudvig | Associate Professor | Plant Biology
 Vashti Sawtelle | PhD
 Chris Sullivan, PhD | | Psychology
-Lewis Siegelbaum | Jack and Margaret Sweet Professor Emeritus | History
 Kristin Mahoney | Associate Professor | English
 **Sarah W. Fitzpatrick, PhD** | | W.K. Kellogg Biological Station/Integrative Biology
 Stacy Hickox, JD | | School of Human Resources & Labor Relations

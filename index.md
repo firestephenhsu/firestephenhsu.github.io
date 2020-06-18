@@ -34,7 +34,7 @@ E. Starr | | Writing, Rhetoric, & American Cultures
 Heather L Eisthen | Professor | Integrative Biology
 Elizabeth Tinsley Johnson | Assistant Professor | Integrative Biology
 John Monberg, PhD | |
-Rufas Isaacs | Professor |
+Rufus Isaacs | Professor | Entomology
 Mark Axelrod | Associate Professor | James Madison College/Fisheries & Wildlife
 Anthony Kendall | Research Assistant Professor | Earth & Environmental Sciences
 Frank A. Fear | Professor Emeritus | College of Agriculture and Natural Resources

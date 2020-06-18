@@ -6,16 +6,16 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **618** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **607** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another internal letter started by MSU faculty, currently signed by 483 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
+[See another internal letter started by MSU faculty, currently signed by 505 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
 _Signatories of this letter agree also not to interfere with or harass any counter-petitions which arise. We condemn such measures and will follow up on any reports that our supporters are engaging in any such behavior._
 
 # Signatures
 
-_Last Update: June 17, 2:55 PM EST_
+_Last Update: June 17, 11:05 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -140,7 +140,10 @@ Sean Weise | Assistant Professor | Biochemistry & Molecular Biology
 Allison Eden	| Associate Professor	| Department of Communication
 Kathleen Foley	| Assistant Professor 	| Biochemistry and Molecular Biology
 **Fredric Janzen**|	Professor and Director|	Kellogg Biological Station
-
+Ashton Shortridge, PhD | | Geography, ENvironment, & Spatial Sciences
+Eric Torng | Associate Professor/Associate Dean | Computer Science & Engineering/The Graduate School
+Catherine Ernst | Professor | Animal Science
+Eric Aronoff | Associate Professor
 
 ### Postdoctoral Researchers
 
@@ -174,6 +177,7 @@ Ben Stein|
 Andrea Glassmire, PhD | Entomology
 Luciano Silvestri, PhD | CMSE
 María Paola Puggioni, PhD | PRL
+Erin Zylstra, PhD | Integrative Biology
 
 ### Academic & Research Staff
 
@@ -209,6 +213,7 @@ Daniel Pfau, PhD | NatSci DEI Training Facilitator |
 Nicole Ellefson 	|Outreach Specialist|
 Skylar DeWitt |	Research Assistant |	Psychology
 Jonathan Walkotten	| Research Assistant |	MSU Center for Community and Economic Development
+Carolyn Graham | Lab Technician | Plant Biology
 
 ### Graduate Students
 
@@ -405,6 +410,53 @@ Shaylynn Miller |	PhD student |
 Joshua Kaste |	PhD Student	| Biochemistry and Molecular Biology
 Bethany Meadows	| PhD student	| Writing, Rhetoric, and American Culture
 Anonymous Graduate Student	| PhD Student	| Psychology
+Emily Dean	|PhD Student	|
+Jorge Nevarez |
+Torie Gerlofs-Fritz |	PhD Student |	History
+Sanket Jantre |	PhD Candidate	
+Anonymous |	PhD Student	 | Electrical Engineering
+Igor Bezsonov	| PhD Student	| Mechanical Engineering
+Patrick O’Grady |	PhD Candidate	| History Department
+Anna Wilcoxson 	| PhD Candidate	|
+Danika Van Niel	| PhD Student	| Mathematics
+Mikayla Kim	 |PhD Candidate |	Psychology
+Anonymous 	| MS Student	| Communication
+DJ Rice	| Graduate Assistant| Jazz Studies
+Manali Dhawan |	PhD Student	|
+Ryan Tilluck |	PhD Candidate |	Chemistry
+Jack Hennes |	PhD Candidate 	
+Ani Hristova	| MS Candidate	
+Chloe Lewis	 |PhD Student | Mathematics
+Dennis Foren |	Ph.D. Candidate |	Physics & Astronomy 
+Yasheen Jadidi |	PhD | Chemistry
+Mark Suchyta | PhD Student |	Sociology, Environmental Science and Policy
+Nicolei Gupit |	MFA Candidate	| Art, Art History, and Design
+Marissa Knaak	| PhD Student |	History
+Anonymous }	PhD  |	Teacher Education
+AJ	| Ph.D. candidate	
+Erik Mueller |	MFA	
+Paula Mercurio	| PhD Student	| Mathematics
+Annabelle Estera |	PhD Candidate |	Educational Administration
+Jonathan W. Thurston	 | PhD |	English
+Craig T. Robertson |	PhD Candidate |	Media & Information
+Christopher Svoboda	| PhD Candidate	
+Brenna Breshears	| MA, LPC, CRC, PhD Candidate  |	College of Ed, RCE
+Connor Drooff	| Graduate Student |	Earth & Environmental Sciences
+Sandra Olenic |	PhD Candidate |	CMB
+Gloria Yarandi	| |	Pharmacology & Toxicology 
+Zayn Al-Zahid	| MS Student |	Physiology
+Andrew Gerard	 | PhD Candidate	| Community Sustainability
+Courtney R. Bingham	 |PhD Student	
+Nathan Poirier |	Graduate student	 | Sociology
+Kayleigh Ward |	PhD Candidate |	Department of Sociology 
+Kiyoto Tanemura |	PhD Student	 | Chemistry
+Kayla Davis	| PhD Student | Integrative Biology
+Katrina Groeller | PhD Student | 	Sociology
+Samantha Westcott	| PhD Student	
+Madeline Nash	| PhD Student | Sociology
+Kyle Card	 | PhD Candidate | Microbiology & Molecular Genetics
+Anonymous PhD Candidate |	PhD Candidate 	
+Funmi Ayeni	| PhD Student	
 
 ### Undergraduate Students
 
@@ -434,6 +486,8 @@ Isabella Kercorian |
 Madeline Henneman |
 Hannah Carbar|
 AD|
+Christine Lee | Lyman Briggs, Honors College
+Abi Otwell |
 
 ### Organizations
 
@@ -517,6 +571,16 @@ Logan Lindsay	| Management Consultant |	MSU alumni
 L Tolsma ||
 Robin Eley ||
 Casey terHorst	| Assoc. Prof., Cal State Northridge	|former MSU post-doc
+Christopher Ray Worst | BS Forestry '18 | Forester
+Kyndra Sisayaket | DMA Horn Performance, College of Music | 
+Terri Poxon-Pearson | PhD, 2020 | Physics & Astronomy
+Carolyn Pratt, PhD | History |
+Kath Edsall |	DVM	
+Gizem Kurt |	PhD	Physiology
+Elyse Gambino | MFA '17, Art, Art History & Design |
+Rhyomi Sellnow | PhD, Cell and Molecular Biology |
+Laura Kirby | PhD
+Andrew Schmidt | MS, Engineering
 
 ### Other Community Allies
 
@@ -659,3 +723,15 @@ Daniela Bonafede-Chhabra	|PhD |
 Lars Kuhn	|PhD |
 P Webb	|M Ed |	
 Ben Kolb	|PhD student| 	Department of Anthropology, Binghamton University
+Toni Pitts | MS |
+Stephanie Kwan | PhD Student | Princeton University Physics Department
+Ben Assa | | Caltech alum
+Zenith Tandukar	| PhD Student | Agriculture & Plant Genetics
+Tucker Reese | | Caltech
+Grace Toy | | Poet & Writer 
+Tony W.	| MS |
+Michele Markstein |	Assistant Professor	| Biology Department, UMass Amherst
+Aaron Norton | PhD | California Institute of Integral Studies
+Zachary Caple | PhD | University of South Florida
+Radolphis Bonnette |
+Emily Ladi | MS Student | Biology, Cal State University Northridge

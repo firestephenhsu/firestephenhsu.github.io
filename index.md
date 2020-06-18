@@ -6,16 +6,16 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **740** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **780** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another internal letter started by MSU faculty, currently signed by 512 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
+[See another internal letter started by MSU faculty, currently signed by 536 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
 _Signatories of this letter agree also not to interfere with or harass any counter-petitions which arise. We condemn such measures and will follow up on any reports that our supporters are engaging in any such behavior._
 
 # Signatures
 
-_Last Update: June 18, 11:37 AM EST_
+_Last Update: June 18, 6:44 PM EST_
 
 **Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -144,6 +144,11 @@ Eric Torng | Associate Professor/Associate Dean | Computer Science & Engineering
 Catherine Ernst | Professor | Animal Science
 Eric Aronoff | Associate Professor
 **Emily Josephs**	|Assistant Professor|	Plant Biology
+Richard J. Miksicek	|| Department of Physiology, College of Human Medicine
+Jennifer Watling Neal	|Associate Professor| Psychology
+Zachary Neal	|Associate Professor|	Psychology 
+Christopher Long|Professor|	Philosophy
+Casey Miles,	PhD|Writing, Rhetoric and American Cultures
 
 ### Postdoctoral Researchers
 
@@ -178,7 +183,7 @@ Andrea Glassmire, PhD | Entomology
 Luciano Silvestri, PhD | CMSE
 María Paola Puggioni, PhD | PRL
 Erin Zylstra, PhD | Integrative Biology
-
+Danielle J. Whittaker,	Ph.D.|BEACON Center & Integrative Biology
 
 ### Academic & Research Staff
 
@@ -215,7 +220,8 @@ Nicole Ellefson 	|Outreach Specialist|
 Skylar DeWitt |	Research Assistant |	Psychology
 Jonathan Walkotten	| Research Assistant |	MSU Center for Community and Economic Development
 Carolyn Graham | Lab Technician | Plant Biology
-Danielle J. Whittaker,	Ph.D.	||BEACON Center & Integrative Biology
+Jesse Traub	PhD| Plant Breeding, Genetics, and Biotechnology	Institute of Agricultural Technology| CANR, MSU
+
 
 ### Graduate Students
 
@@ -480,7 +486,26 @@ Tasha Williams 	|PhD Candidate|
 Anonymous 	| PhD Candidate	| Teacher Education
 Ezgi Karaoglu	|PhD Student	|Sociology
 Kara Dobson|	PhD Student|	Integrative Biology
-
+Kaelyn Muiru	|PhD Student	|English 
+Joshua Wylie |	Graduate Student|	Physics
+Lucas Al-Zoughbi	| PhD Student	|Psychology
+Susan Beightol	| PhD candidate	| Earth and Environmental Sciences
+Brandon Bavier|	PhD Student	|
+Caley Harris|	PhD Student	| Physics & Astronomy
+Kimberly Alberts	|PhD Candidate|
+Sophie Bedford	|Graduate Student	|Chemistry
+Jariel Ramirez-Virella|	PhD Student	|
+JoAnn Ballor	||
+Shelby Wilcox||
+Isaac T. Yandow	|PhD Student|	Physics
+Cristhian Gonzalez-Ortiz	|PhD Student	|Physics and Astronomy
+Emma Haines	|MS Student	|Earth and Environmenta Sciences
+Chiwimbo P. Mwika	|PhD Student|	
+Xueming Xue	| PhD Student|	Earth and Environmenta Sciences
+Lindsey Kemmerling|	PhD Candidate|	Kellogg Biological Station
+Aaron Woodman	|DMA Student	|
+Sarah Groendyk	|PhD Student	|Integrative Biology
+Maggie Sawdy	|PhD Candidate|	Integrative Biology
 
 
 ### Undergraduate Students
@@ -513,6 +538,9 @@ Hannah Carbar|
 AD|
 Christine Lee | Lyman Briggs, Honors College
 Abi Otwell |
+Ryann Whalen	|Lyman briggs, Honors College
+Erika Shiino	|	Natural Sciences Honors College
+Olivia 嚴芳 Moses	|	Residential College in the Arts & Humanities
 
 ### Organizations
 
@@ -781,3 +809,13 @@ Ariel Parker	|PhD Candidate|
 Kaleb Johnston	||	
 **Leslie Turner,PhD**	|Milner Centre for Evolution| University of Bath
 Maria Salinas||
+Nadine Michel | PhD |
+Jessica Kassim	||	
+Elias Trout	| Undergraduate 	| Brandeis University 
+Lisa Couper	MS| PhD Candidate|	Biology, Stanford
+Matthew J. Brown	|Professor	Philosophy and History of Ideas| The University of Texas at Dallas
+Stephanie Noble	| Postdoctoral Associate	| Radiology & Biomedical Imaging, Yale University
+Carol Miller	|PhD|
+Stephen D. Alkins, Ph.D.	|Diversity, Equity, and Inclusion Officer|
+Colleen Delaney, PhD	|Professor | Anthropology,	CSU Channel Islands 
+Rob Wilson,	PhD|	|Philosophy, University of Western Australia

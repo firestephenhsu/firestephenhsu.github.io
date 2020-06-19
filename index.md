@@ -6,18 +6,18 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **783** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **792** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another internal letter started by MSU faculty, currently signed by 536 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
+[See another internal letter started by MSU faculty, currently signed by 541 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
 _Signatories of this letter agree also not to interfere with or harass any counter-petitions which arise. We condemn such measures and will follow up on any reports that our supporters are engaging in any such behavior._
 
 # Signatures
 
-_Last Update: June 18, 9:30 PM EST_
+_Last Update: June 19, 10:00 AM EST_
 
-**Bolded** names indicate population geneticists. We highglight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
+**Bolded** names indicate population geneticists. We highlight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
 ## MSU
 
@@ -184,6 +184,7 @@ María Paola Puggioni, PhD | PRL
 Erin Zylstra, PhD | Integrative Biology
 Danielle J. Whittaker,	Ph.D.|BEACON Center & Integrative Biology
 
+
 ### Academic & Research Staff
 
 Erica Fischer, MS | |
@@ -230,7 +231,7 @@ McKayla Sluga | PhD Candidate | History
 Matthew Andres Moreno | PhD Student
 Kyle Sittig | PhD Candidate
 Alexander Lalejini | PhD Candidate
-Daniel Turner | PhD Student
+Daniel Turner | PhD Student | Entomology
 Jeremy Pardo | PhD Candidate
 Meaghan Clark | PhD Student
 itatiVCS | PhD Student
@@ -504,6 +505,8 @@ Lindsey Kemmerling|	PhD Candidate|	Kellogg Biological Station
 Aaron Woodman	|DMA Student	|
 Sarah Groendyk	|PhD Student	|Integrative Biology
 Maggie Sawdy	|PhD Candidate|	Integrative Biology
+Emily Milton | PhD Student| Anthropology
+Katie Carline | PhD Candidate | History
 
 
 ### Undergraduate Students
@@ -539,6 +542,9 @@ Abi Otwell |
 Ryann Whalen	|Lyman briggs, Honors College
 Erika Shiino	|	Natural Sciences Honors College
 Olivia 嚴芳 Moses	|	Residential College in the Arts & Humanities
+Andrew Kelley|
+Lea Dyga | BS Student, College of Natural Science
+Makaila Rawls|
 
 ### Organizations
 
@@ -639,6 +645,7 @@ Joseph Lee-Cullin,PhD | Albion College
 Elizabeth Pellerito,	PhD|	Director, Labor Education Program| UMass Lowell
 Jill E. Kelly	PhD |MSU, 2012
 Matt Kolp,	PhD| 	Formerly EEBB and Plant Biology
+Davon Woodard| PhD Candidate | History
 
 ### Other Community Allies
 
@@ -821,3 +828,6 @@ Mandy McFarlane ||
 Anayvelyse Allen-Mossman |PhD Candidate | Columbia University, Department of Latin American and Iberian Cultures
 Maria Gonzalez ||
 Alexa Lalejini |School Librarian MLIS |
+Elisira Auchter ||
+Rebecca Woods | MS |
+Stephanie Moore ||Women's Studies

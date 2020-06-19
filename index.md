@@ -664,7 +664,7 @@ Joseph Lee-Cullin,PhD | Albion College
 Elizabeth Pellerito,	PhD|	Director, Labor Education Program| UMass Lowell
 Jill E. Kelly	PhD |MSU, 2012
 Matt Kolp,	PhD| 	Formerly EEBB and Plant Biology
-Davon Woodard| PhD Candidate | History
+Davon Woodard| PhD Candidate | VT
 
 ### Other Community Allies
 

@@ -6,7 +6,7 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **809** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **815** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
 [See another internal letter started by MSU faculty, currently signed by 546 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
@@ -15,7 +15,7 @@ _Signatories of this letter agree also not to interfere with or harass any count
 
 # Signatures
 
-_Last Update: June 19, 3:06 PM EST_
+_Last Update: June 19, 3:46 PM EST_
 
 **Bolded** names indicate population geneticists. We highlight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -523,6 +523,9 @@ Daniel Priddy | MS Student | Horticulture
 Michael Gottschalk | PhD Student | Physics
 Natalie Constancio | MS Student
 Kristina Beethem | PhD Student | Sociology
+Jennifer Gruber | PhD Student | Ecological-Community Psychology
+Madeline Mackinder | PhD Candidaten |
+
 
 
 
@@ -564,6 +567,8 @@ Lea Dyga | BS Student, College of Natural Science
 Makaila Rawls|
 Anonymous|
 Samirah Pulos-Copeland |
+Ally Beshouri | James Madison College; Art, Art History, and Design Department
+Skyler Leslie | James Madison College
 
 ### Organizations
 
@@ -852,3 +857,5 @@ Rebecca Woods | MS |
 Stephanie Moore ||Women's Studies
 Sarah Wicks ||
 Theresa Burnham | PhD Candidate |
+Sumeet Patwardhan | PhD Candidate | University of Michigan - Ann Arbor
+Marcy Darnovsky | Executive Director | Center for Genetics and Society

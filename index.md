@@ -6,16 +6,16 @@ The concerns expressed by the Graduate Employees Union [[twitter]](https://twitt
 
 By signing this open letter we ask MSU to follow through to its commitment to be a diverse and inclusive institution and to change its institutional and administrative practices so that the passion and talent of Black scholars, Indigenous scholars, and other scholars of color (BIPOC) can be recognized and fostered within these university halls. 
 
-We currently have **798** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
+We currently have **809** signatures. **You can add your signature [here](https://docs.google.com/forms/d/e/1FAIpQLSdULLrcotmYTaXJ8JWOW-OFqqL_bPvANIf8XFe7-JF2o2eBfA/viewform).**
 *\* Please note due to the nature of the open letter we are unable to completely verify submissions. If your name has been falsely submitted, or if there is an error with your submission, please email president@geuatmsu.org and/or organizing@geuatmsu.org*
 
-[See another internal letter started by MSU faculty, currently signed by 543 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
+[See another internal letter started by MSU faculty, currently signed by 546 faculty, staff, and graduate students at MSU, here.](https://docs.google.com/document/d/1jb7w02E5GAdrJ_QnAokp7IerP_VBDridmQ-rI9M2TAE/edit) _Those at MSU are welcome to sign both petitions; this petition is intended to be available to those both inside and outside the institution. The number of signatories of each petition is not meant to be or expected to be mutually exclusive._
 
 _Signatories of this letter agree also not to interfere with or harass any counter-petitions which arise. We condemn such measures and will follow up on any reports that our supporters are engaging in any such behavior._
 
 # Signatures
 
-_Last Update: June 19, 11:55 AM EST_
+_Last Update: June 19, 3:06 PM EST_
 
 **Bolded** names indicate population geneticists. We highlight these individuals by their request to emphasize that Hsu's views have no basis in the scientific community. 
 
@@ -150,6 +150,10 @@ Zachary Neal	|Associate Professor|	Psychology
 Casey Miles,	PhD|Writing, Rhetoric and American Cultures
 Kenneth W. Harrow| PhD Emeritus| Department of English
 Lewis Siegelbaum |Jack and Margaret Sweet Professor Emeritus |History	
+Muraleedharan Nair | Professor | Horticulture, CANR
+Galia Benitez | PhD | James Madison College
+
+
 ### Postdoctoral Researchers
 
 Jackson Helms, PhD | Kellogg Biological Station
@@ -184,6 +188,8 @@ Luciano Silvestri, PhD | CMSE
 María Paola Puggioni, PhD | PRL
 Erin Zylstra, PhD | Integrative Biology
 Danielle J. Whittaker,	Ph.D.|BEACON Center & Integrative Biology
+SN | PhD|
+
 
 
 ### Academic & Research Staff
@@ -511,6 +517,13 @@ Katie Carline | PhD Candidate | History
 Ian Gonzalez Afanador | PhD Student | ECE
 Travis Johnsiewilliam ||
 Milos Sretenovic |PhD Student| Dept. Physics and Astronomy
+Emily Jennings |PhD Candidate| Plant Biology Dept
+Quinn Kolar |PhD Student
+Daniel Priddy | MS Student | Horticulture
+Michael Gottschalk | PhD Student | Physics
+Natalie Constancio | MS Student
+Kristina Beethem | PhD Student | Sociology
+
 
 
 ### Undergraduate Students
@@ -550,6 +563,7 @@ Andrew Kelley|
 Lea Dyga | BS Student, College of Natural Science
 Makaila Rawls|
 Anonymous|
+Samirah Pulos-Copeland |
 
 ### Organizations
 
@@ -837,3 +851,4 @@ Elisira Auchter ||
 Rebecca Woods | MS |
 Stephanie Moore ||Women's Studies
 Sarah Wicks ||
+Theresa Burnham | PhD Candidate |

@@ -149,7 +149,7 @@ Jennifer Watling Neal	|Associate Professor| Psychology
 Zachary Neal	|Associate Professor|	Psychology 
 Casey Miles,	PhD|Writing, Rhetoric and American Cultures
 Kenneth W. Harrow| PhD Emeritus| Department of English
-
+Lewis Siegelbaum |Jack and Margaret Sweet Professor Emeritus |History	
 ### Postdoctoral Researchers
 
 Jackson Helms, PhD | Kellogg Biological Station

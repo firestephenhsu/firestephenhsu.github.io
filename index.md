@@ -1,3 +1,15 @@
+# UPDATE: Hsu has resigned.
+
+[See the statement from MSU here.](https://msu.edu/issues-statements/2020-06-19-statement-hsu-resignation.php)
+
+We sincerely thank all of you who had the courage to speak out and took the time to engage with this important work.
+
+The reception we received was beyond our imaginings. It is clear this is a deep pain that has been bubbling under the surface at our institution for many years, and we are not done engaging with and trying to heal that damage.
+
+But for now, thank you.
+
+_Note: If you would like your name removed from this public-facing site, please let us know. Otherwise, the petition will be updated soon with all names submitted prior to Hsu's resignation._
+
 # An Open Letter to Michigan State University
 
 We are faculty, students, support staff, and allies within and outside Michigan State University demanding that Stephen Hsu be removed from his position as Senior Vice President for Research and Innovation. 
